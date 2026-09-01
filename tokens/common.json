@@ -2,837 +2,837 @@
   "semantic": {
     "opacity": {
       "overlay": {
-        "value": "{core.opacity.68}",
-        "type": "opacity"
+        "$value": "{core.opacity.68}",
+        "$type": "opacity"
       },
       "ripple": {
-        "value": "{core.opacity.16}",
-        "type": "opacity"
+        "$value": "{core.opacity.16}",
+        "$type": "opacity"
       },
       "visible": {
-        "value": "{core.opacity.100}",
-        "type": "opacity"
+        "$value": "{core.opacity.100}",
+        "$type": "opacity"
       },
       "transparent": {
-        "value": "{core.opacity.0}",
-        "type": "opacity"
+        "$value": "{core.opacity.0}",
+        "$type": "opacity"
       },
       "disabled": {
-        "value": "{core.opacity.48}",
-        "type": "opacity"
+        "$value": "{core.opacity.48}",
+        "$type": "opacity"
       },
       "focused": {
-        "value": "{core.opacity.48}",
-        "type": "opacity"
+        "$value": "{core.opacity.48}",
+        "$type": "opacity"
       },
       "semi-transparent": {
-        "value": "{core.opacity.48}",
-        "type": "opacity"
+        "$value": "{core.opacity.48}",
+        "$type": "opacity"
       },
       "hidden": {
-        "value": "{core.opacity.0}",
-        "type": "opacity"
+        "$value": "{core.opacity.0}",
+        "$type": "opacity"
       }
     },
     "borderRadius": {
       "form": {
-        "value": "{core.borderRadius.3-x}",
-        "type": "borderRadius"
+        "$value": "{core.borderRadius.3-x}",
+        "$type": "borderRadius"
       },
       "modal": {
-        "value": "{core.borderRadius.6-x}",
-        "type": "borderRadius"
+        "$value": "{core.borderRadius.6-x}",
+        "$type": "borderRadius"
       }
     },
     "scale": {
       "pressed": {
-        "value": "{core.scale.2}",
-        "type": "scaling"
+        "$value": "{core.scale.2}",
+        "$type": "scaling"
       },
       "default": {
-        "value": "{core.scale.1}",
-        "type": "scaling"
+        "$value": "{core.scale.1}",
+        "$type": "scaling"
       }
     },
     "animation": {
       "time": {
         "xs": {
-          "value": {
+          "$value": {
             "duration": "100"
           },
-          "type": "animationTime"
+          "$type": "animationTime"
         },
         "s": {
-          "value": {
+          "$value": {
             "duration": "200"
           },
-          "type": "animationTime"
+          "$type": "animationTime"
         },
         "m": {
-          "value": {
+          "$value": {
             "duration": "400"
           },
-          "type": "animationTime"
+          "$type": "animationTime"
         },
         "l": {
-          "value": {
+          "$value": {
             "duration": "600"
           },
-          "type": "animationTime"
+          "$type": "animationTime"
         },
         "xl": {
-          "value": {
+          "$value": {
             "duration": "800"
           },
-          "type": "animationTime"
+          "$type": "animationTime"
         }
       },
       "ease": {
         "base": {
-          "value": {
+          "$value": {
             "x1": "0.4",
             "y1": "0.24",
             "x2": "0",
             "y2": "1"
           },
-          "type": "animationEaseBase"
+          "$type": "animationEaseBase"
         },
         "spring": {
-          "value": {
+          "$value": {
             "stiffness": "400",
             "damping": "30",
             "mass": "1"
           },
-          "type": "animationEaseSpring"
+          "$type": "animationEaseSpring"
         }
       },
       "ease-in-out-100": {
-        "value": {
+        "$value": {
           "x1": "0.25",
           "y1": "0.1",
           "x2": "0.25",
           "y2": "1",
           "duration": "100"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-200": {
-        "value": {
+        "$value": {
           "x1": "0.25",
           "y1": "0.1",
           "x2": "0.25",
           "y2": "1",
           "duration": "200"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-300": {
-        "value": {
+        "$value": {
           "x1": "0.25",
           "y1": "0.1",
           "x2": "0.25",
           "y2": "1",
           "duration": "300"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-400": {
-        "value": {
+        "$value": {
           "x1": "0.25",
           "y1": "0.1",
           "x2": "0.25",
           "y2": "1",
           "duration": "400"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-500": {
-        "value": {
+        "$value": {
           "x1": "0.25",
           "y1": "0.1",
           "x2": "0.25",
           "y2": "1",
           "duration": "500"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-tiger-100": {
-        "value": {
+        "$value": {
           "x1": "0.25",
           "y1": "0.1",
           "x2": "0.25",
           "y2": "1",
           "duration": "100"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-tiger-200": {
-        "value": {
+        "$value": {
           "x1": "0.25",
           "y1": "0.1",
           "x2": "0.25",
           "y2": "1",
           "duration": "200"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-tiger-300": {
-        "value": {
+        "$value": {
           "x1": "0.25",
           "y1": "0.1",
           "x2": "0.25",
           "y2": "1",
           "duration": "300"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-tiger-400": {
-        "value": {
+        "$value": {
           "x1": "0.25",
           "y1": "0.1",
           "x2": "0.25",
           "y2": "1",
           "duration": "400"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-tiger-500": {
-        "value": {
+        "$value": {
           "x1": "0.25",
           "y1": "0.1",
           "x2": "0.25",
           "y2": "1",
           "duration": "500"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-tiger-800": {
-        "value": {
+        "$value": {
           "x1": "0.25",
           "y1": "0.1",
           "x2": "0.25",
           "y2": "1",
           "duration": "800"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-leopard-100": {
-        "value": {
+        "$value": {
           "x1": "0.35",
           "y1": "0.1",
           "x2": "0.1",
           "y2": "1",
           "duration": "100"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-leopard-200": {
-        "value": {
+        "$value": {
           "x1": "0.35",
           "y1": "0.1",
           "x2": "0.1",
           "y2": "1",
           "duration": "200"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-leopard-300": {
-        "value": {
+        "$value": {
           "x1": "0.35",
           "y1": "0.1",
           "x2": "0.1",
           "y2": "1",
           "duration": "300"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-leopard-400": {
-        "value": {
+        "$value": {
           "x1": "0.35",
           "y1": "0.1",
           "x2": "0.1",
           "y2": "1",
           "duration": "400"
         },
-        "type": "animation"
+        "$type": "animation"
       },
       "ease-in-out-leopard-500": {
-        "value": {
+        "$value": {
           "x1": "0.35",
           "y1": "0.1",
           "x2": "0.1",
           "y2": "1",
           "duration": "500"
         },
-        "type": "animation"
+        "$type": "animation"
       }
     },
     "borderWidth": {
       "default": {
-        "value": "{core.borderWidth.10}",
-        "type": "borderWidth"
+        "$value": "{core.borderWidth.10}",
+        "$type": "borderWidth"
       },
       "hovered": {
-        "value": "{core.borderWidth.10}",
-        "type": "borderWidth"
+        "$value": "{core.borderWidth.10}",
+        "$type": "borderWidth"
       },
       "invalid": {
-        "value": "{core.borderWidth.10}",
-        "type": "borderWidth"
+        "$value": "{core.borderWidth.10}",
+        "$type": "borderWidth"
       },
       "disabled": {
-        "value": "{core.borderWidth.10}",
-        "type": "borderWidth"
+        "$value": "{core.borderWidth.10}",
+        "$type": "borderWidth"
       },
       "checkable": {
-        "value": "{core.borderWidth.15}",
-        "type": "borderWidth"
+        "$value": "{core.borderWidth.15}",
+        "$type": "borderWidth"
       },
       "focused": {
-        "value": "{core.borderWidth.20}",
-        "type": "borderWidth"
+        "$value": "{core.borderWidth.20}",
+        "$type": "borderWidth"
       },
       "applied": {
-        "value": "{core.borderWidth.20}",
-        "type": "borderWidth"
+        "$value": "{core.borderWidth.20}",
+        "$type": "borderWidth"
       },
       "highlighted": {
-        "value": "{core.borderWidth.20}",
-        "type": "borderWidth"
+        "$value": "{core.borderWidth.20}",
+        "$type": "borderWidth"
       },
       "selected": {
-        "value": "{core.borderWidth.20}",
-        "type": "borderWidth"
+        "$value": "{core.borderWidth.20}",
+        "$type": "borderWidth"
       },
       "tab-focused": {
-        "value": "{core.borderWidth.40}",
-        "type": "borderWidth"
+        "$value": "{core.borderWidth.40}",
+        "$type": "borderWidth"
       }
     },
     "border": {
       "default": {
-        "value": {
+        "$value": {
           "width": "{semantic.borderWidth.default}",
           "style": "solid"
         },
-        "type": "border"
+        "$type": "border"
       },
       "dashed-default": {
-        "value": {
+        "$value": {
           "width": "{core.borderWidth.20}",
           "style": "dashed"
         },
-        "type": "border"
+        "$type": "border"
       },
       "hovered": {
-        "value": {
+        "$value": {
           "width": "{semantic.borderWidth.hovered}",
           "style": "solid"
         },
-        "type": "border"
+        "$type": "border"
       },
       "invalid": {
-        "value": {
+        "$value": {
           "width": "{semantic.borderWidth.invalid}",
           "style": "solid"
         },
-        "type": "border"
+        "$type": "border"
       },
       "disabled": {
-        "value": {
+        "$value": {
           "width": "{semantic.borderWidth.disabled}",
           "style": "solid"
         },
-        "type": "border"
+        "$type": "border"
       },
       "checkable": {
-        "value": {
+        "$value": {
           "width": "{semantic.borderWidth.checkable}",
           "style": "solid"
         },
-        "type": "border"
+        "$type": "border"
       },
       "focused": {
-        "value": {
+        "$value": {
           "width": "{semantic.borderWidth.focused}",
           "style": "solid"
         },
-        "type": "border"
+        "$type": "border"
       },
       "dashed-focused": {
-        "value": {
+        "$value": {
           "width": "{semantic.borderWidth.focused}",
           "style": "dashed"
         },
-        "type": "border"
+        "$type": "border"
       },
       "applied": {
-        "value": {
+        "$value": {
           "width": "{semantic.borderWidth.applied}",
           "style": "solid"
         },
-        "type": "border"
+        "$type": "border"
       },
       "selected": {
-        "value": {
+        "$value": {
           "width": "{core.borderWidth.20}",
           "style": "solid"
         },
-        "type": "border"
+        "$type": "border"
       },
       "tab-focused": {
-        "value": {
+        "$value": {
           "width": "{semantic.borderWidth.tab-focused}",
           "style": "solid"
         },
-        "type": "border"
+        "$type": "border"
       }
     },
     "blur": {
       "floating": {
-        "value": "{static.blur.uniform.48}",
-        "type": "blur"
+        "$value": "{static.blur.uniform.48}",
+        "$type": "blur"
       },
       "overlay": {
-        "value": "{static.blur.uniform.24}",
-        "type": "blur"
+        "$value": "{static.blur.uniform.24}",
+        "$type": "blur"
       }
     }
   },
   "static": {
     "opacity": {
       "0": {
-        "value": "{core.opacity.0}",
-        "type": "opacity"
+        "$value": "{core.opacity.0}",
+        "$type": "opacity"
       },
       "4": {
-        "value": "{core.opacity.4}",
-        "type": "opacity"
+        "$value": "{core.opacity.4}",
+        "$type": "opacity"
       },
       "8": {
-        "value": "{core.opacity.8}",
-        "type": "opacity"
+        "$value": "{core.opacity.8}",
+        "$type": "opacity"
       },
       "16": {
-        "value": "{core.opacity.16}",
-        "type": "opacity"
+        "$value": "{core.opacity.16}",
+        "$type": "opacity"
       },
       "24": {
-        "value": "{core.opacity.24}",
-        "type": "opacity"
+        "$value": "{core.opacity.24}",
+        "$type": "opacity"
       },
       "32": {
-        "value": "{core.opacity.32}",
-        "type": "opacity"
+        "$value": "{core.opacity.32}",
+        "$type": "opacity"
       },
       "48": {
-        "value": "{core.opacity.48}",
-        "type": "opacity"
+        "$value": "{core.opacity.48}",
+        "$type": "opacity"
       },
       "60": {
-        "value": "{core.opacity.60}",
-        "type": "opacity"
+        "$value": "{core.opacity.60}",
+        "$type": "opacity"
       },
       "70": {
-        "value": "{core.opacity.70}",
-        "type": "opacity"
+        "$value": "{core.opacity.70}",
+        "$type": "opacity"
       },
       "80": {
-        "value": "{core.opacity.80}",
-        "type": "opacity"
+        "$value": "{core.opacity.80}",
+        "$type": "opacity"
       },
       "100": {
-        "value": "{core.opacity.100}",
-        "type": "opacity"
+        "$value": "{core.opacity.100}",
+        "$type": "opacity"
       }
     },
     "space": {
       "0": {
-        "value": "{core.space.0-x}",
-        "type": "spacing"
+        "$value": "{core.space.0-x}",
+        "$type": "spacing"
       },
       "50": {
-        "value": "{core.space.1-x} / 2",
-        "type": "spacing"
+        "$value": "{core.space.1-x} / 2",
+        "$type": "spacing"
       },
       "100": {
-        "value": "{core.space.1-x}",
-        "type": "spacing"
+        "$value": "{core.space.1-x}",
+        "$type": "spacing"
       },
       "150": {
-        "value": "{core.space.1-x} + {core.space.1-x} / 2",
-        "type": "spacing"
+        "$value": "{core.space.1-x} + {core.space.1-x} / 2",
+        "$type": "spacing"
       },
       "200": {
-        "value": "{core.space.2-x}",
-        "type": "spacing"
+        "$value": "{core.space.2-x}",
+        "$type": "spacing"
       },
       "250": {
-        "value": "{core.space.2-x} + {core.space.1-x} / 2",
-        "type": "spacing"
+        "$value": "{core.space.2-x} + {core.space.1-x} / 2",
+        "$type": "spacing"
       },
       "300": {
-        "value": "{core.space.3-x}",
-        "type": "spacing"
+        "$value": "{core.space.3-x}",
+        "$type": "spacing"
       },
       "400": {
-        "value": "{core.space.4-x}",
-        "type": "spacing"
+        "$value": "{core.space.4-x}",
+        "$type": "spacing"
       },
       "500": {
-        "value": "{core.space.5-x}",
-        "type": "spacing"
+        "$value": "{core.space.5-x}",
+        "$type": "spacing"
       },
       "600": {
-        "value": "{core.space.6-x}",
-        "type": "spacing"
+        "$value": "{core.space.6-x}",
+        "$type": "spacing"
       },
       "700": {
-        "value": "{core.space.7-x}",
-        "type": "spacing"
+        "$value": "{core.space.7-x}",
+        "$type": "spacing"
       },
       "800": {
-        "value": "{core.space.8-x}",
-        "type": "spacing"
+        "$value": "{core.space.8-x}",
+        "$type": "spacing"
       },
       "900": {
-        "value": "{core.space.9-x}",
-        "type": "spacing"
+        "$value": "{core.space.9-x}",
+        "$type": "spacing"
       },
       "1000": {
-        "value": "{core.space.10-x}",
-        "type": "spacing"
+        "$value": "{core.space.10-x}",
+        "$type": "spacing"
       },
       "1100": {
-        "value": "{core.space.11-x}",
-        "type": "spacing"
+        "$value": "{core.space.11-x}",
+        "$type": "spacing"
       },
       "1200": {
-        "value": "{core.space.12-x}",
-        "type": "spacing"
+        "$value": "{core.space.12-x}",
+        "$type": "spacing"
       },
       "1300": {
-        "value": "{core.space.13-x}",
-        "type": "spacing"
+        "$value": "{core.space.13-x}",
+        "$type": "spacing"
       },
       "1400": {
-        "value": "{core.space.14-x}",
-        "type": "spacing"
+        "$value": "{core.space.14-x}",
+        "$type": "spacing"
       },
       "1500": {
-        "value": "{core.space.15-x}",
-        "type": "spacing"
+        "$value": "{core.space.15-x}",
+        "$type": "spacing"
       },
       "1600": {
-        "value": "{core.space.16-x}",
-        "type": "spacing"
+        "$value": "{core.space.16-x}",
+        "$type": "spacing"
       },
       "1700": {
-        "value": "{core.space.17-x}",
-        "type": "spacing"
+        "$value": "{core.space.17-x}",
+        "$type": "spacing"
       },
       "1800": {
-        "value": "{core.space.18-x}",
-        "type": "spacing"
+        "$value": "{core.space.18-x}",
+        "$type": "spacing"
       },
       "1900": {
-        "value": "{core.space.19-x}",
-        "type": "spacing"
+        "$value": "{core.space.19-x}",
+        "$type": "spacing"
       },
       "2000": {
-        "value": "{core.space.20-x}",
-        "type": "spacing"
+        "$value": "{core.space.20-x}",
+        "$type": "spacing"
       },
       "2100": {
-        "value": "4*21",
-        "type": "spacing"
+        "$value": "4*21",
+        "$type": "spacing"
       },
       "2200": {
-        "value": "4*22",
-        "type": "spacing"
+        "$value": "4*22",
+        "$type": "spacing"
       },
       "2300": {
-        "value": "4*23",
-        "type": "spacing"
+        "$value": "4*23",
+        "$type": "spacing"
       },
       "2400": {
-        "value": "4*24",
-        "type": "spacing"
+        "$value": "4*24",
+        "$type": "spacing"
       },
       "2500": {
-        "value": "4*25",
-        "type": "spacing"
+        "$value": "4*25",
+        "$type": "spacing"
       },
       "2600": {
-        "value": "4*26",
-        "type": "spacing"
+        "$value": "4*26",
+        "$type": "spacing"
       },
       "2700": {
-        "value": "4*27",
-        "type": "spacing"
+        "$value": "4*27",
+        "$type": "spacing"
       },
       "2800": {
-        "value": "4*28",
-        "type": "spacing"
+        "$value": "4*28",
+        "$type": "spacing"
       },
       "2900": {
-        "value": "4*29",
-        "type": "spacing"
+        "$value": "4*29",
+        "$type": "spacing"
       },
       "3000": {
-        "value": "4*30",
-        "type": "spacing"
+        "$value": "4*30",
+        "$type": "spacing"
       },
       "3100": {
-        "value": "4*31",
-        "type": "spacing"
+        "$value": "4*31",
+        "$type": "spacing"
       },
       "3200": {
-        "value": "4*32",
-        "type": "spacing"
+        "$value": "4*32",
+        "$type": "spacing"
       },
       "3300": {
-        "value": "4*33",
-        "type": "spacing"
+        "$value": "4*33",
+        "$type": "spacing"
       },
       "3400": {
-        "value": "4*34",
-        "type": "spacing"
+        "$value": "4*34",
+        "$type": "spacing"
       },
       "3500": {
-        "value": "4*35",
-        "type": "spacing"
+        "$value": "4*35",
+        "$type": "spacing"
       },
       "3600": {
-        "value": "4*36",
-        "type": "spacing"
+        "$value": "4*36",
+        "$type": "spacing"
       },
       "3700": {
-        "value": "4*37",
-        "type": "spacing"
+        "$value": "4*37",
+        "$type": "spacing"
       },
       "3800": {
-        "value": "4*38",
-        "type": "spacing"
+        "$value": "4*38",
+        "$type": "spacing"
       },
       "3900": {
-        "value": "4*39",
-        "type": "spacing"
+        "$value": "4*39",
+        "$type": "spacing"
       },
       "4000": {
-        "value": "4*40",
-        "type": "spacing"
+        "$value": "4*40",
+        "$type": "spacing"
       },
       "4500": {
-        "value": "4*45",
-        "type": "spacing"
+        "$value": "4*45",
+        "$type": "spacing"
       },
       "5000": {
-        "value": "4*50",
-        "type": "spacing"
+        "$value": "4*50",
+        "$type": "spacing"
       },
       "5500": {
-        "value": "4*55",
-        "type": "spacing"
+        "$value": "4*55",
+        "$type": "spacing"
       },
       "6000": {
-        "value": "4*60",
-        "type": "spacing"
+        "$value": "4*60",
+        "$type": "spacing"
       },
       "6500": {
-        "value": "4*65",
-        "type": "spacing"
+        "$value": "4*65",
+        "$type": "spacing"
       },
       "7000": {
-        "value": "4*70",
-        "type": "spacing"
+        "$value": "4*70",
+        "$type": "spacing"
       }
     },
     "size": {
       "100": {
-        "value": "{core.size.1-x}",
-        "type": "sizing"
+        "$value": "{core.size.1-x}",
+        "$type": "sizing"
       },
       "200": {
-        "value": "{core.size.2-x}",
-        "type": "sizing"
+        "$value": "{core.size.2-x}",
+        "$type": "sizing"
       },
       "300": {
-        "value": "{core.size.3-x}",
-        "type": "sizing"
+        "$value": "{core.size.3-x}",
+        "$type": "sizing"
       },
       "400": {
-        "value": "{core.size.4-x}",
-        "type": "sizing"
+        "$value": "{core.size.4-x}",
+        "$type": "sizing"
       },
       "500": {
-        "value": "{core.size.5-x}",
-        "type": "sizing"
+        "$value": "{core.size.5-x}",
+        "$type": "sizing"
       },
       "600": {
-        "value": "{core.size.6-x}",
-        "type": "sizing"
+        "$value": "{core.size.6-x}",
+        "$type": "sizing"
       },
       "700": {
-        "value": "{core.size.7-x}",
-        "type": "sizing"
+        "$value": "{core.size.7-x}",
+        "$type": "sizing"
       },
       "800": {
-        "value": "{core.size.8-x}",
-        "type": "sizing"
+        "$value": "{core.size.8-x}",
+        "$type": "sizing"
       },
       "900": {
-        "value": "{core.size.9-x}",
-        "type": "sizing"
+        "$value": "{core.size.9-x}",
+        "$type": "sizing"
       },
       "1000": {
-        "value": "{core.size.10-x}",
-        "type": "sizing"
+        "$value": "{core.size.10-x}",
+        "$type": "sizing"
       },
       "1100": {
-        "value": "{core.size.11-x}",
-        "type": "sizing"
+        "$value": "{core.size.11-x}",
+        "$type": "sizing"
       },
       "1200": {
-        "value": "{core.size.12-x}",
-        "type": "sizing"
+        "$value": "{core.size.12-x}",
+        "$type": "sizing"
       },
       "1300": {
-        "value": "{core.size.13-x}",
-        "type": "sizing"
+        "$value": "{core.size.13-x}",
+        "$type": "sizing"
       },
       "1400": {
-        "value": "{core.size.14-x}",
-        "type": "sizing"
+        "$value": "{core.size.14-x}",
+        "$type": "sizing"
       },
       "1500": {
-        "value": "{core.size.15-x}",
-        "type": "sizing"
+        "$value": "{core.size.15-x}",
+        "$type": "sizing"
       },
       "1600": {
-        "value": "{core.size.16-x}",
-        "type": "sizing"
+        "$value": "{core.size.16-x}",
+        "$type": "sizing"
       },
       "1700": {
-        "value": "{core.size.17-x}",
-        "type": "sizing"
+        "$value": "{core.size.17-x}",
+        "$type": "sizing"
       },
       "1800": {
-        "value": "{core.size.18-x}",
-        "type": "sizing"
+        "$value": "{core.size.18-x}",
+        "$type": "sizing"
       },
       "1900": {
-        "value": "{core.size.19-x}",
-        "type": "sizing"
+        "$value": "{core.size.19-x}",
+        "$type": "sizing"
       },
       "2000": {
-        "value": "{core.size.20-x}",
-        "type": "sizing"
+        "$value": "{core.size.20-x}",
+        "$type": "sizing"
       }
     },
     "borderRadius": {
       "0": {
-        "value": "{core.borderRadius.0-x}",
-        "type": "borderRadius"
+        "$value": "{core.borderRadius.0-x}",
+        "$type": "borderRadius"
       },
       "50": {
-        "value": "{core.borderRadius.1-x} / 2",
-        "type": "borderRadius"
+        "$value": "{core.borderRadius.1-x} / 2",
+        "$type": "borderRadius"
       },
       "100": {
-        "value": "{core.borderRadius.1-x}",
-        "type": "borderRadius"
+        "$value": "{core.borderRadius.1-x}",
+        "$type": "borderRadius"
       },
       "200": {
-        "value": "{core.borderRadius.2-x}",
-        "type": "borderRadius"
+        "$value": "{core.borderRadius.2-x}",
+        "$type": "borderRadius"
       },
       "300": {
-        "value": "{core.borderRadius.3-x}",
-        "type": "borderRadius"
+        "$value": "{core.borderRadius.3-x}",
+        "$type": "borderRadius"
       },
       "400": {
-        "value": "{core.borderRadius.4-x}",
-        "type": "borderRadius"
+        "$value": "{core.borderRadius.4-x}",
+        "$type": "borderRadius"
       },
       "450": {
-        "value": "{core.space.4-x} + {core.space.1-x}/2",
-        "type": "borderRadius"
+        "$value": "{core.space.4-x} + {core.space.1-x}/2",
+        "$type": "borderRadius"
       },
       "500": {
-        "value": "{core.borderRadius.5-x}",
-        "type": "borderRadius"
+        "$value": "{core.borderRadius.5-x}",
+        "$type": "borderRadius"
       },
       "600": {
-        "value": "{core.borderRadius.6-x}",
-        "type": "borderRadius"
+        "$value": "{core.borderRadius.6-x}",
+        "$type": "borderRadius"
       },
       "700": {
-        "value": "{core.borderRadius.7-x}",
-        "type": "borderRadius"
+        "$value": "{core.borderRadius.7-x}",
+        "$type": "borderRadius"
       },
       "800": {
-        "value": "{core.borderRadius.8-x}",
-        "type": "borderRadius"
+        "$value": "{core.borderRadius.8-x}",
+        "$type": "borderRadius"
       },
       "900": {
-        "value": "{core.borderRadius.9-x}",
-        "type": "borderRadius"
+        "$value": "{core.borderRadius.9-x}",
+        "$type": "borderRadius"
       },
       "1000": {
-        "value": "{core.borderRadius.10-x}",
-        "type": "borderRadius"
+        "$value": "{core.borderRadius.10-x}",
+        "$type": "borderRadius"
       }
     },
     "a11yScale": {
       "0": {
-        "value": "{core.a11yScale.0}",
-        "type": "a11yScales"
+        "$value": "{core.a11yScale.0}",
+        "$type": "a11yScales"
       },
       "100": {
-        "value": "{core.a11yScale.1}",
-        "type": "a11yScales"
+        "$value": "{core.a11yScale.1}",
+        "$type": "a11yScales"
       },
       "200": {
-        "value": "{core.a11yScale.2}",
-        "type": "a11yScales"
+        "$value": "{core.a11yScale.2}",
+        "$type": "a11yScales"
       },
       "300": {
-        "value": "{core.a11yScale.3}",
-        "type": "a11yScales"
+        "$value": "{core.a11yScale.3}",
+        "$type": "a11yScales"
       },
       "400": {
-        "value": "{core.a11yScale.4}",
-        "type": "a11yScales"
+        "$value": "{core.a11yScale.4}",
+        "$type": "a11yScales"
       },
       "500": {
-        "value": "{core.a11yScale.5}",
-        "type": "a11yScales"
+        "$value": "{core.a11yScale.5}",
+        "$type": "a11yScales"
       }
     },
     "blur": {
       "uniform": {
         "24": {
-          "value": "24",
-          "type": "blur"
+          "$value": "24",
+          "$type": "blur"
         },
         "48": {
-          "value": "48",
-          "type": "blur"
+          "$value": "48",
+          "$type": "blur"
         },
         "60": {
-          "value": "60",
-          "type": "blur"
+          "$value": "60",
+          "$type": "blur"
         }
       },
       "progressive": {
         "0": {
-          "value": "0",
-          "type": "blur"
+          "$value": "0",
+          "$type": "blur"
         },
         "24": {
-          "value": "24",
-          "type": "blur"
+          "$value": "24",
+          "$type": "blur"
         }
       }
     }
