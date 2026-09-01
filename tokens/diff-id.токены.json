@@ -6,25 +6,26 @@
     "palette": {
       "figmaId": "VariableCollectionId:3265:2216",
       "modes": {
-        "Default": "3265:5"
+        "default": "3265:5"
       }
     },
     "core": {
       "figmaId": "VariableCollectionId:3265:2214",
       "modes": {
-        "Default": "3265:3"
+        "default": "3265:3"
       }
     },
     "common": {
       "figmaId": "VariableCollectionId:3265:2215",
       "modes": {
-        "Default": "3265:4"
+        "default": "3265:4"
       }
     },
     "typography": {
       "figmaId": "VariableCollectionId:3265:2217",
       "modes": {
-        "Default": "3265:6"
+        "Default": "3265:6",
+        "default": "3265:6"
       }
     },
     "themes": {
@@ -38,6 +39,18 @@
   },
   "compatibility": {
     "migrations": {}
+  },
+  "structuralModeFences": {
+    "typography": {
+      "reason": "identity-unproven",
+      "collectionId": "VariableCollectionId:3265:2217",
+      "lostModes": {
+        "Default": "3265:6"
+      },
+      "gainedModes": [
+        "default"
+      ]
+    }
   },
   "variables": {
     "color": {
@@ -1913,7 +1926,7 @@
           "hash": "28e326a6",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "palette::Default": "28e326a6"
+            "palette::default": "28e326a6"
           },
           "sourceFile": "palette.json",
           "sourceKind": "file",
@@ -1927,7 +1940,7 @@
             "hash": "69ceecf2",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "69ceecf2"
+              "palette::default": "69ceecf2"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -1940,7 +1953,7 @@
             "hash": "42518ab9",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "42518ab9"
+              "palette::default": "42518ab9"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -1953,7 +1966,7 @@
             "hash": "48a39273",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "48a39273"
+              "palette::default": "48a39273"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -1966,7 +1979,7 @@
             "hash": "35097112",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "35097112"
+              "palette::default": "35097112"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -1979,7 +1992,7 @@
             "hash": "2e6af041",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "2e6af041"
+              "palette::default": "2e6af041"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -1992,7 +2005,7 @@
             "hash": "276fc7f9",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "276fc7f9"
+              "palette::default": "276fc7f9"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2005,7 +2018,7 @@
             "hash": "6569dd95",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "6569dd95"
+              "palette::default": "6569dd95"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2018,7 +2031,7 @@
             "hash": "da154386",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "da154386"
+              "palette::default": "da154386"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2031,7 +2044,7 @@
             "hash": "a256354f",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "a256354f"
+              "palette::default": "a256354f"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2044,7 +2057,7 @@
             "hash": "93d9f198",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "93d9f198"
+              "palette::default": "93d9f198"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2057,7 +2070,7 @@
             "hash": "97cf764f",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "97cf764f"
+              "palette::default": "97cf764f"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2070,7 +2083,7 @@
             "hash": "d98a3b5a",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "d98a3b5a"
+              "palette::default": "d98a3b5a"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2083,7 +2096,7 @@
             "hash": "2765099d",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "2765099d"
+              "palette::default": "2765099d"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2096,7 +2109,7 @@
             "hash": "afec6496",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "afec6496"
+              "palette::default": "afec6496"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2109,7 +2122,7 @@
             "hash": "36378d1a",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "36378d1a"
+              "palette::default": "36378d1a"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2122,7 +2135,7 @@
             "hash": "fe3ea69c",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "fe3ea69c"
+              "palette::default": "fe3ea69c"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2135,7 +2148,7 @@
             "hash": "6426e96f",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "6426e96f"
+              "palette::default": "6426e96f"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2148,7 +2161,7 @@
             "hash": "66f9236c",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "66f9236c"
+              "palette::default": "66f9236c"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2161,7 +2174,7 @@
             "hash": "4e214eac",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "4e214eac"
+              "palette::default": "4e214eac"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2174,7 +2187,7 @@
             "hash": "5a7b9905",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "5a7b9905"
+              "palette::default": "5a7b9905"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2187,7 +2200,7 @@
             "hash": "080de2ea",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "080de2ea"
+              "palette::default": "080de2ea"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2202,7 +2215,7 @@
             "hash": "6649e90c",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "6649e90c"
+              "palette::default": "6649e90c"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2215,7 +2228,7 @@
             "hash": "3cb6dca1",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "3cb6dca1"
+              "palette::default": "3cb6dca1"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2228,7 +2241,7 @@
             "hash": "24388656",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "24388656"
+              "palette::default": "24388656"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2241,7 +2254,7 @@
             "hash": "aa09bd6d",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "aa09bd6d"
+              "palette::default": "aa09bd6d"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2254,7 +2267,7 @@
             "hash": "8e8d7cb2",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "8e8d7cb2"
+              "palette::default": "8e8d7cb2"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2267,7 +2280,7 @@
             "hash": "aff6c3bd",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "aff6c3bd"
+              "palette::default": "aff6c3bd"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2280,7 +2293,7 @@
             "hash": "96b4c2ea",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "96b4c2ea"
+              "palette::default": "96b4c2ea"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2293,7 +2306,7 @@
             "hash": "34e9ee5b",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "34e9ee5b"
+              "palette::default": "34e9ee5b"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2306,7 +2319,7 @@
             "hash": "45262b71",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "45262b71"
+              "palette::default": "45262b71"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2319,7 +2332,7 @@
             "hash": "e60c1613",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "e60c1613"
+              "palette::default": "e60c1613"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2332,7 +2345,7 @@
             "hash": "2599acbd",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "2599acbd"
+              "palette::default": "2599acbd"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2345,7 +2358,7 @@
             "hash": "29adbc9a",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "29adbc9a"
+              "palette::default": "29adbc9a"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2358,7 +2371,7 @@
             "hash": "a809ffac",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "a809ffac"
+              "palette::default": "a809ffac"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2371,7 +2384,7 @@
             "hash": "e40afb77",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "e40afb77"
+              "palette::default": "e40afb77"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2384,7 +2397,7 @@
             "hash": "0d489eb5",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "0d489eb5"
+              "palette::default": "0d489eb5"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2397,7 +2410,7 @@
             "hash": "67281827",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "67281827"
+              "palette::default": "67281827"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2410,7 +2423,7 @@
             "hash": "13ab8513",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "13ab8513"
+              "palette::default": "13ab8513"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2423,7 +2436,7 @@
             "hash": "31793675",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "31793675"
+              "palette::default": "31793675"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2436,7 +2449,7 @@
             "hash": "43f85f1d",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "43f85f1d"
+              "palette::default": "43f85f1d"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2449,7 +2462,7 @@
             "hash": "2add502e",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "2add502e"
+              "palette::default": "2add502e"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2462,7 +2475,7 @@
             "hash": "47b17ac5",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "47b17ac5"
+              "palette::default": "47b17ac5"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2477,7 +2490,7 @@
             "hash": "e526ddfc",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "e526ddfc"
+              "palette::default": "e526ddfc"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2490,7 +2503,7 @@
             "hash": "f738e883",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "f738e883"
+              "palette::default": "f738e883"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2503,7 +2516,7 @@
             "hash": "1a69de8a",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "1a69de8a"
+              "palette::default": "1a69de8a"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2516,7 +2529,7 @@
             "hash": "354610ac",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "354610ac"
+              "palette::default": "354610ac"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2529,7 +2542,7 @@
             "hash": "e1fecc8f",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "e1fecc8f"
+              "palette::default": "e1fecc8f"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2542,7 +2555,7 @@
             "hash": "99ee9551",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "99ee9551"
+              "palette::default": "99ee9551"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2555,7 +2568,7 @@
             "hash": "1c2a12a8",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "1c2a12a8"
+              "palette::default": "1c2a12a8"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2568,7 +2581,7 @@
             "hash": "46355b74",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "46355b74"
+              "palette::default": "46355b74"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2581,7 +2594,7 @@
             "hash": "d537f881",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "d537f881"
+              "palette::default": "d537f881"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2594,7 +2607,7 @@
             "hash": "3c868494",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "3c868494"
+              "palette::default": "3c868494"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2607,7 +2620,7 @@
             "hash": "fd5c2369",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "fd5c2369"
+              "palette::default": "fd5c2369"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2620,7 +2633,7 @@
             "hash": "c055835f",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "c055835f"
+              "palette::default": "c055835f"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2633,7 +2646,7 @@
             "hash": "30a1835c",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "30a1835c"
+              "palette::default": "30a1835c"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2646,7 +2659,7 @@
             "hash": "434d0521",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "434d0521"
+              "palette::default": "434d0521"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2659,7 +2672,7 @@
             "hash": "f4a3e578",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "f4a3e578"
+              "palette::default": "f4a3e578"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2672,7 +2685,7 @@
             "hash": "a57f212e",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "a57f212e"
+              "palette::default": "a57f212e"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2685,7 +2698,7 @@
             "hash": "3fbd16e3",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "3fbd16e3"
+              "palette::default": "3fbd16e3"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2698,7 +2711,7 @@
             "hash": "1092d8c5",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "1092d8c5"
+              "palette::default": "1092d8c5"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2711,7 +2724,7 @@
             "hash": "1f1180df",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "1f1180df"
+              "palette::default": "1f1180df"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2724,7 +2737,7 @@
             "hash": "91b61520",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "91b61520"
+              "palette::default": "91b61520"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2737,7 +2750,7 @@
             "hash": "61e28aaf",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "61e28aaf"
+              "palette::default": "61e28aaf"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2752,7 +2765,7 @@
             "hash": "8b0e3cd8",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "8b0e3cd8"
+              "palette::default": "8b0e3cd8"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2765,7 +2778,7 @@
             "hash": "f515db0b",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "f515db0b"
+              "palette::default": "f515db0b"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2778,7 +2791,7 @@
             "hash": "c221e69a",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "c221e69a"
+              "palette::default": "c221e69a"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2791,7 +2804,7 @@
             "hash": "45206405",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "45206405"
+              "palette::default": "45206405"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2804,7 +2817,7 @@
             "hash": "ebd16488",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "ebd16488"
+              "palette::default": "ebd16488"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2817,7 +2830,7 @@
             "hash": "3bf72585",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "3bf72585"
+              "palette::default": "3bf72585"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2830,7 +2843,7 @@
             "hash": "d23f36d0",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "d23f36d0"
+              "palette::default": "d23f36d0"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2843,7 +2856,7 @@
             "hash": "6370610a",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "6370610a"
+              "palette::default": "6370610a"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2856,7 +2869,7 @@
             "hash": "e7d942a2",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "e7d942a2"
+              "palette::default": "e7d942a2"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2869,7 +2882,7 @@
             "hash": "e9a3be71",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "e9a3be71"
+              "palette::default": "e9a3be71"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2882,7 +2895,7 @@
             "hash": "8edcf39a",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "8edcf39a"
+              "palette::default": "8edcf39a"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2895,7 +2908,7 @@
             "hash": "a16727e3",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "a16727e3"
+              "palette::default": "a16727e3"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2908,7 +2921,7 @@
             "hash": "ea50ef8c",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "ea50ef8c"
+              "palette::default": "ea50ef8c"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2921,7 +2934,7 @@
             "hash": "8be85c5e",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "8be85c5e"
+              "palette::default": "8be85c5e"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2934,7 +2947,7 @@
             "hash": "858db9f7",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "858db9f7"
+              "palette::default": "858db9f7"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2947,7 +2960,7 @@
             "hash": "4606e029",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "4606e029"
+              "palette::default": "4606e029"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2960,7 +2973,7 @@
             "hash": "f38b7e6e",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "f38b7e6e"
+              "palette::default": "f38b7e6e"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2973,7 +2986,7 @@
             "hash": "2e66efb4",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "2e66efb4"
+              "palette::default": "2e66efb4"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2986,7 +2999,7 @@
             "hash": "d176cfb9",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "d176cfb9"
+              "palette::default": "d176cfb9"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -2999,7 +3012,7 @@
             "hash": "fb5d3c5c",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "fb5d3c5c"
+              "palette::default": "fb5d3c5c"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3012,7 +3025,7 @@
             "hash": "23a1b007",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "23a1b007"
+              "palette::default": "23a1b007"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3027,7 +3040,7 @@
             "hash": "b65db8fc",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "b65db8fc"
+              "palette::default": "b65db8fc"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3040,7 +3053,7 @@
             "hash": "bb525d19",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "bb525d19"
+              "palette::default": "bb525d19"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3053,7 +3066,7 @@
             "hash": "ab48eb5b",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "ab48eb5b"
+              "palette::default": "ab48eb5b"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3066,7 +3079,7 @@
             "hash": "d18ae4aa",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "d18ae4aa"
+              "palette::default": "d18ae4aa"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3079,7 +3092,7 @@
             "hash": "bbfd1efb",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "bbfd1efb"
+              "palette::default": "bbfd1efb"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3092,7 +3105,7 @@
             "hash": "e419b452",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "e419b452"
+              "palette::default": "e419b452"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3105,7 +3118,7 @@
             "hash": "0dac3225",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "0dac3225"
+              "palette::default": "0dac3225"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3118,7 +3131,7 @@
             "hash": "4bab24d4",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "4bab24d4"
+              "palette::default": "4bab24d4"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3131,7 +3144,7 @@
             "hash": "a6aa5966",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "a6aa5966"
+              "palette::default": "a6aa5966"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3144,7 +3157,7 @@
             "hash": "52b1faaa",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "52b1faaa"
+              "palette::default": "52b1faaa"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3157,7 +3170,7 @@
             "hash": "1e054466",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "1e054466"
+              "palette::default": "1e054466"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3170,7 +3183,7 @@
             "hash": "83ba2355",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "83ba2355"
+              "palette::default": "83ba2355"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3183,7 +3196,7 @@
             "hash": "4ac83c99",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "4ac83c99"
+              "palette::default": "4ac83c99"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3196,7 +3209,7 @@
             "hash": "d59224a9",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "d59224a9"
+              "palette::default": "d59224a9"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3209,7 +3222,7 @@
             "hash": "c4d3b496",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "c4d3b496"
+              "palette::default": "c4d3b496"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3222,7 +3235,7 @@
             "hash": "44728ae2",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "44728ae2"
+              "palette::default": "44728ae2"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3235,7 +3248,7 @@
             "hash": "df8fb104",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "df8fb104"
+              "palette::default": "df8fb104"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3248,7 +3261,7 @@
             "hash": "61f52439",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "61f52439"
+              "palette::default": "61f52439"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3261,7 +3274,7 @@
             "hash": "facce0ca",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "facce0ca"
+              "palette::default": "facce0ca"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3274,7 +3287,7 @@
             "hash": "787e0d45",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "787e0d45"
+              "palette::default": "787e0d45"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3287,7 +3300,7 @@
             "hash": "051ec463",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "051ec463"
+              "palette::default": "051ec463"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3302,7 +3315,7 @@
             "hash": "90c70075",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "90c70075"
+              "palette::default": "90c70075"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3315,7 +3328,7 @@
             "hash": "3c9e01a5",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "3c9e01a5"
+              "palette::default": "3c9e01a5"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3328,7 +3341,7 @@
             "hash": "eef49534",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "eef49534"
+              "palette::default": "eef49534"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3341,7 +3354,7 @@
             "hash": "b18dcb2b",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "b18dcb2b"
+              "palette::default": "b18dcb2b"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3354,7 +3367,7 @@
             "hash": "95366631",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "95366631"
+              "palette::default": "95366631"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3367,7 +3380,7 @@
             "hash": "7304e612",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "7304e612"
+              "palette::default": "7304e612"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3380,7 +3393,7 @@
             "hash": "b82cd9aa",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "b82cd9aa"
+              "palette::default": "b82cd9aa"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3393,7 +3406,7 @@
             "hash": "c575643a",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "c575643a"
+              "palette::default": "c575643a"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3406,7 +3419,7 @@
             "hash": "b107240e",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "b107240e"
+              "palette::default": "b107240e"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3419,7 +3432,7 @@
             "hash": "7c4ac503",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "7c4ac503"
+              "palette::default": "7c4ac503"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3432,7 +3445,7 @@
             "hash": "25e70cd5",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "25e70cd5"
+              "palette::default": "25e70cd5"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3445,7 +3458,7 @@
             "hash": "f7af0e7c",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "f7af0e7c"
+              "palette::default": "f7af0e7c"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3458,7 +3471,7 @@
             "hash": "44ff70b5",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "44ff70b5"
+              "palette::default": "44ff70b5"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3471,7 +3484,7 @@
             "hash": "31ca57fd",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "31ca57fd"
+              "palette::default": "31ca57fd"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3484,7 +3497,7 @@
             "hash": "29e7de3e",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "29e7de3e"
+              "palette::default": "29e7de3e"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3497,7 +3510,7 @@
             "hash": "3d32f88d",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "3d32f88d"
+              "palette::default": "3d32f88d"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3510,7 +3523,7 @@
             "hash": "8d29c675",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "8d29c675"
+              "palette::default": "8d29c675"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3523,7 +3536,7 @@
             "hash": "1885e890",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "1885e890"
+              "palette::default": "1885e890"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3536,7 +3549,7 @@
             "hash": "d5125143",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "d5125143"
+              "palette::default": "d5125143"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3549,7 +3562,7 @@
             "hash": "0de6efd9",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "0de6efd9"
+              "palette::default": "0de6efd9"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3562,7 +3575,7 @@
             "hash": "2f65dc20",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "2f65dc20"
+              "palette::default": "2f65dc20"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3577,7 +3590,7 @@
             "hash": "e27c482e",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "e27c482e"
+              "palette::default": "e27c482e"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3590,7 +3603,7 @@
             "hash": "66843d39",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "66843d39"
+              "palette::default": "66843d39"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3603,7 +3616,7 @@
             "hash": "b1d400b9",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "b1d400b9"
+              "palette::default": "b1d400b9"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3616,7 +3629,7 @@
             "hash": "baaaca3e",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "baaaca3e"
+              "palette::default": "baaaca3e"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3629,7 +3642,7 @@
             "hash": "c46c9dba",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "c46c9dba"
+              "palette::default": "c46c9dba"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3642,7 +3655,7 @@
             "hash": "2855d867",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "2855d867"
+              "palette::default": "2855d867"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3655,7 +3668,7 @@
             "hash": "23f2e005",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "23f2e005"
+              "palette::default": "23f2e005"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3668,7 +3681,7 @@
             "hash": "4c1bd070",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "4c1bd070"
+              "palette::default": "4c1bd070"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3681,7 +3694,7 @@
             "hash": "4dd71ead",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "4dd71ead"
+              "palette::default": "4dd71ead"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3694,7 +3707,7 @@
             "hash": "87b991e6",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "87b991e6"
+              "palette::default": "87b991e6"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3707,7 +3720,7 @@
             "hash": "bbf6d582",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "bbf6d582"
+              "palette::default": "bbf6d582"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3720,7 +3733,7 @@
             "hash": "f2edabcb",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "f2edabcb"
+              "palette::default": "f2edabcb"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3733,7 +3746,7 @@
             "hash": "d14499a6",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "d14499a6"
+              "palette::default": "d14499a6"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3746,7 +3759,7 @@
             "hash": "d07b5905",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "d07b5905"
+              "palette::default": "d07b5905"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3759,7 +3772,7 @@
             "hash": "b51ca135",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "b51ca135"
+              "palette::default": "b51ca135"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3772,7 +3785,7 @@
             "hash": "17e65cf4",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "17e65cf4"
+              "palette::default": "17e65cf4"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3785,7 +3798,7 @@
             "hash": "2d895efb",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "2d895efb"
+              "palette::default": "2d895efb"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3798,7 +3811,7 @@
             "hash": "2f6f62d2",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "2f6f62d2"
+              "palette::default": "2f6f62d2"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3811,7 +3824,7 @@
             "hash": "206de73f",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "206de73f"
+              "palette::default": "206de73f"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3824,7 +3837,7 @@
             "hash": "4c72251b",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "4c72251b"
+              "palette::default": "4c72251b"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3837,7 +3850,7 @@
             "hash": "4add60c0",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "4add60c0"
+              "palette::default": "4add60c0"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3852,7 +3865,7 @@
             "hash": "fbccb950",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "fbccb950"
+              "palette::default": "fbccb950"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3865,7 +3878,7 @@
             "hash": "81e5f139",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "81e5f139"
+              "palette::default": "81e5f139"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3878,7 +3891,7 @@
             "hash": "6f9245e2",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "6f9245e2"
+              "palette::default": "6f9245e2"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3891,7 +3904,7 @@
             "hash": "07eeb4c0",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "07eeb4c0"
+              "palette::default": "07eeb4c0"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3904,7 +3917,7 @@
             "hash": "681dc40e",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "681dc40e"
+              "palette::default": "681dc40e"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3917,7 +3930,7 @@
             "hash": "94bb5c2c",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "94bb5c2c"
+              "palette::default": "94bb5c2c"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3930,7 +3943,7 @@
             "hash": "0f7d2e90",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "0f7d2e90"
+              "palette::default": "0f7d2e90"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3943,7 +3956,7 @@
             "hash": "0ed39fc1",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "0ed39fc1"
+              "palette::default": "0ed39fc1"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3956,7 +3969,7 @@
             "hash": "bd5685f3",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "bd5685f3"
+              "palette::default": "bd5685f3"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3969,7 +3982,7 @@
             "hash": "3e34aec3",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "3e34aec3"
+              "palette::default": "3e34aec3"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3982,7 +3995,7 @@
             "hash": "01ffdc70",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "01ffdc70"
+              "palette::default": "01ffdc70"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -3995,7 +4008,7 @@
             "hash": "8006b437",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "8006b437"
+              "palette::default": "8006b437"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4008,7 +4021,7 @@
             "hash": "8a2788c3",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "8a2788c3"
+              "palette::default": "8a2788c3"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4021,7 +4034,7 @@
             "hash": "18172598",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "18172598"
+              "palette::default": "18172598"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4034,7 +4047,7 @@
             "hash": "f298baba",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "f298baba"
+              "palette::default": "f298baba"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4047,7 +4060,7 @@
             "hash": "e6385125",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "e6385125"
+              "palette::default": "e6385125"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4060,7 +4073,7 @@
             "hash": "0e0aee9b",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "0e0aee9b"
+              "palette::default": "0e0aee9b"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4073,7 +4086,7 @@
             "hash": "cd1cc524",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "cd1cc524"
+              "palette::default": "cd1cc524"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4086,7 +4099,7 @@
             "hash": "b928d087",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "b928d087"
+              "palette::default": "b928d087"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4099,7 +4112,7 @@
             "hash": "1a7639ad",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "1a7639ad"
+              "palette::default": "1a7639ad"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4112,7 +4125,7 @@
             "hash": "9f90a4db",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "9f90a4db"
+              "palette::default": "9f90a4db"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4127,7 +4140,7 @@
             "hash": "f55d354e",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "f55d354e"
+              "palette::default": "f55d354e"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4140,7 +4153,7 @@
             "hash": "6e2253cd",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "6e2253cd"
+              "palette::default": "6e2253cd"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4153,7 +4166,7 @@
             "hash": "57009415",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "57009415"
+              "palette::default": "57009415"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4166,7 +4179,7 @@
             "hash": "1c47b9b0",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "1c47b9b0"
+              "palette::default": "1c47b9b0"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4179,7 +4192,7 @@
             "hash": "7eeaa543",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "7eeaa543"
+              "palette::default": "7eeaa543"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4192,7 +4205,7 @@
             "hash": "82d88164",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "82d88164"
+              "palette::default": "82d88164"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4205,7 +4218,7 @@
             "hash": "7ee87b3c",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "7ee87b3c"
+              "palette::default": "7ee87b3c"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4218,7 +4231,7 @@
             "hash": "c376e77f",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "c376e77f"
+              "palette::default": "c376e77f"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4231,7 +4244,7 @@
             "hash": "7765ac53",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "7765ac53"
+              "palette::default": "7765ac53"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4244,7 +4257,7 @@
             "hash": "7683d717",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "7683d717"
+              "palette::default": "7683d717"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4257,7 +4270,7 @@
             "hash": "a94d156f",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "a94d156f"
+              "palette::default": "a94d156f"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4270,7 +4283,7 @@
             "hash": "3470b70d",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "3470b70d"
+              "palette::default": "3470b70d"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4283,7 +4296,7 @@
             "hash": "6133b616",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "6133b616"
+              "palette::default": "6133b616"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4296,7 +4309,7 @@
             "hash": "c89dd5b4",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "c89dd5b4"
+              "palette::default": "c89dd5b4"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4309,7 +4322,7 @@
             "hash": "6ab15a1e",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "6ab15a1e"
+              "palette::default": "6ab15a1e"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4322,7 +4335,7 @@
             "hash": "05290cfb",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "05290cfb"
+              "palette::default": "05290cfb"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4335,7 +4348,7 @@
             "hash": "f232e078",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "f232e078"
+              "palette::default": "f232e078"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4348,7 +4361,7 @@
             "hash": "c30a6dbf",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "c30a6dbf"
+              "palette::default": "c30a6dbf"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4361,7 +4374,7 @@
             "hash": "32c7e22d",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "32c7e22d"
+              "palette::default": "32c7e22d"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4374,7 +4387,7 @@
             "hash": "b09076f2",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "b09076f2"
+              "palette::default": "b09076f2"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4387,7 +4400,7 @@
             "hash": "fcf33a38",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "fcf33a38"
+              "palette::default": "fcf33a38"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4401,7 +4414,7 @@
           "hash": "e4ca1233",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "palette::Default": "e4ca1233"
+            "palette::default": "e4ca1233"
           },
           "sourceFile": "palette.json",
           "sourceKind": "file",
@@ -4415,7 +4428,7 @@
             "hash": "176c859d",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "176c859d"
+              "palette::default": "176c859d"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4428,7 +4441,7 @@
             "hash": "d593806a",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "d593806a"
+              "palette::default": "d593806a"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4441,7 +4454,7 @@
             "hash": "80a10314",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "80a10314"
+              "palette::default": "80a10314"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4454,7 +4467,7 @@
             "hash": "72968352",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "72968352"
+              "palette::default": "72968352"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4467,7 +4480,7 @@
             "hash": "29493221",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "29493221"
+              "palette::default": "29493221"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4480,7 +4493,7 @@
             "hash": "afb0ca9b",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "afb0ca9b"
+              "palette::default": "afb0ca9b"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4493,7 +4506,7 @@
             "hash": "d24bacf8",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "d24bacf8"
+              "palette::default": "d24bacf8"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4506,7 +4519,7 @@
             "hash": "ed912d61",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "ed912d61"
+              "palette::default": "ed912d61"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4519,7 +4532,7 @@
             "hash": "771a60d7",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "771a60d7"
+              "palette::default": "771a60d7"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4532,7 +4545,7 @@
             "hash": "d6882eb5",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "d6882eb5"
+              "palette::default": "d6882eb5"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4545,7 +4558,7 @@
             "hash": "ab39defc",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "ab39defc"
+              "palette::default": "ab39defc"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4558,7 +4571,7 @@
             "hash": "c2adcbcf",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "c2adcbcf"
+              "palette::default": "c2adcbcf"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4571,7 +4584,7 @@
             "hash": "e0b33b72",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "e0b33b72"
+              "palette::default": "e0b33b72"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4584,7 +4597,7 @@
             "hash": "a92730cd",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "a92730cd"
+              "palette::default": "a92730cd"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4597,7 +4610,7 @@
             "hash": "6468e025",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "6468e025"
+              "palette::default": "6468e025"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4610,7 +4623,7 @@
             "hash": "d13712f7",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "d13712f7"
+              "palette::default": "d13712f7"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4623,7 +4636,7 @@
             "hash": "b112aff4",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "b112aff4"
+              "palette::default": "b112aff4"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4636,7 +4649,7 @@
             "hash": "edc09b59",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "edc09b59"
+              "palette::default": "edc09b59"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4649,7 +4662,7 @@
             "hash": "c0c251cd",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "c0c251cd"
+              "palette::default": "c0c251cd"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4662,7 +4675,7 @@
             "hash": "ad489c7e",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "ad489c7e"
+              "palette::default": "ad489c7e"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -4675,7 +4688,7 @@
             "hash": "0f2df5ca",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "palette::Default": "0f2df5ca"
+              "palette::default": "0f2df5ca"
             },
             "sourceFile": "palette.json",
             "sourceKind": "file",
@@ -35967,7 +35980,7 @@
         "hash": "268f8b44",
         "metaHash": "m1:9a367bdf",
         "modeHashes": {
-          "core::Default": "268f8b44"
+          "core::default": "268f8b44"
         },
         "sourceFile": "core.json",
         "sourceKind": "file",
@@ -35981,7 +35994,7 @@
           "hash": "8c4a7d12",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "8c4a7d12"
+            "core::default": "8c4a7d12"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -35994,7 +36007,7 @@
           "hash": "40e07d8c",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "40e07d8c"
+            "core::default": "40e07d8c"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36007,7 +36020,7 @@
           "hash": "ce6f7a6f",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "ce6f7a6f"
+            "core::default": "ce6f7a6f"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36020,7 +36033,7 @@
           "hash": "02c57af1",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "02c57af1"
+            "core::default": "02c57af1"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36033,7 +36046,7 @@
           "hash": "080073e8",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "080073e8"
+            "core::default": "080073e8"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36046,7 +36059,7 @@
           "hash": "c4aa7376",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "c4aa7376"
+            "core::default": "c4aa7376"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36061,7 +36074,7 @@
           "hash": "19305c7f",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "19305c7f"
+            "core::default": "19305c7f"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36074,7 +36087,7 @@
           "hash": "d59a5ce1",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "d59a5ce1"
+            "core::default": "d59a5ce1"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36087,7 +36100,7 @@
           "hash": "e6ba50cb",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "e6ba50cb"
+            "core::default": "e6ba50cb"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36100,7 +36113,7 @@
           "hash": "2a105055",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "2a105055"
+            "core::default": "2a105055"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36113,7 +36126,7 @@
           "hash": "a49f57b6",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "a49f57b6"
+            "core::default": "a49f57b6"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36126,7 +36139,7 @@
           "hash": "68355728",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "68355728"
+            "core::default": "68355728"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36139,7 +36152,7 @@
           "hash": "62f05e31",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "62f05e31"
+            "core::default": "62f05e31"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36152,7 +36165,7 @@
           "hash": "ae5a5eaf",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "ae5a5eaf"
+            "core::default": "ae5a5eaf"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36165,7 +36178,7 @@
           "hash": "20d5594c",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "20d5594c"
+            "core::default": "20d5594c"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36178,7 +36191,7 @@
           "hash": "ec7f59d2",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "ec7f59d2"
+            "core::default": "ec7f59d2"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36191,7 +36204,7 @@
           "hash": "355f4b7e",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "355f4b7e"
+            "core::default": "355f4b7e"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36204,7 +36217,7 @@
           "hash": "f9f54be0",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "f9f54be0"
+            "core::default": "f9f54be0"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36217,7 +36230,7 @@
           "hash": "5b155b02",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "5b155b02"
+            "core::default": "5b155b02"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36230,7 +36243,7 @@
           "hash": "df376c0e",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "df376c0e"
+            "core::default": "df376c0e"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36243,7 +36256,7 @@
           "hash": "139d6c90",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "139d6c90"
+            "core::default": "139d6c90"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36256,7 +36269,7 @@
           "hash": "9d126b73",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "9d126b73"
+            "core::default": "9d126b73"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36269,7 +36282,7 @@
           "hash": "51b86bed",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "51b86bed"
+            "core::default": "51b86bed"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36282,7 +36295,7 @@
           "hash": "5b7d62f4",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "5b7d62f4"
+            "core::default": "5b7d62f4"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36295,7 +36308,7 @@
           "hash": "97d7626a",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "97d7626a"
+            "core::default": "97d7626a"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36308,7 +36321,7 @@
           "hash": "97bf5b9c",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "97bf5b9c"
+            "core::default": "97bf5b9c"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36321,7 +36334,7 @@
           "hash": "9d7a5285",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "9d7a5285"
+            "core::default": "9d7a5285"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36334,7 +36347,7 @@
           "hash": "51d0521b",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "51d0521b"
+            "core::default": "51d0521b"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36347,7 +36360,7 @@
           "hash": "df5f55f8",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "df5f55f8"
+            "core::default": "df5f55f8"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36360,7 +36373,7 @@
           "hash": "13f55566",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "13f55566"
+            "core::default": "13f55566"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36373,7 +36386,7 @@
           "hash": "cad547ca",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "cad547ca"
+            "core::default": "cad547ca"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36386,7 +36399,7 @@
           "hash": "067f4754",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "067f4754"
+            "core::default": "067f4754"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36401,7 +36414,7 @@
           "hash": "40e07d8c",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "40e07d8c"
+            "core::default": "40e07d8c"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36414,7 +36427,7 @@
           "hash": "8deabe58",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "8deabe58"
+            "core::default": "8deabe58"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36427,7 +36440,7 @@
           "hash": "ce6f7a6f",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "ce6f7a6f"
+            "core::default": "ce6f7a6f"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36440,7 +36453,7 @@
           "hash": "080073e8",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "080073e8"
+            "core::default": "080073e8"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36455,7 +36468,7 @@
           "hash": "080073e8",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "080073e8"
+            "core::default": "080073e8"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36468,7 +36481,7 @@
           "hash": "d52c370f",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "d52c370f"
+            "core::default": "d52c370f"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36481,7 +36494,7 @@
           "hash": "97093072",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "97093072"
+            "core::default": "97093072"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36494,7 +36507,7 @@
           "hash": "516639f5",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "516639f5"
+            "core::default": "516639f5"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36507,7 +36520,7 @@
           "hash": "13433e88",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "13433e88"
+            "core::default": "13433e88"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36520,7 +36533,7 @@
           "hash": "06c92cba",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "06c92cba"
+            "core::default": "06c92cba"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36533,7 +36546,7 @@
           "hash": "ae840cb7",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "ae840cb7"
+            "core::default": "ae840cb7"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36546,7 +36559,7 @@
           "hash": "3f44107f",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "3f44107f"
+            "core::default": "3f44107f"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36559,7 +36572,7 @@
           "hash": "3db5160e",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "3db5160e"
+            "core::default": "3db5160e"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36572,7 +36585,7 @@
           "hash": "9fbb7240",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "9fbb7240"
+            "core::default": "9fbb7240"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36585,7 +36598,7 @@
           "hash": "1bf17cba",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "1bf17cba"
+            "core::default": "1bf17cba"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36598,7 +36611,7 @@
           "hash": "4c5e69f5",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "4c5e69f5"
+            "core::default": "4c5e69f5"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36611,7 +36624,7 @@
           "hash": "4eaf6f84",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "4eaf6f84"
+            "core::default": "4eaf6f84"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36624,7 +36637,7 @@
           "hash": "3507543c",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "3507543c"
+            "core::default": "3507543c"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36637,7 +36650,7 @@
           "hash": "798f8154",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "798f8154"
+            "core::default": "798f8154"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36652,7 +36665,7 @@
           "hash": "0fe6cfa0",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "0fe6cfa0"
+            "core::default": "0fe6cfa0"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36666,7 +36679,7 @@
             "hash": "391cb9e0",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "391cb9e0"
+              "core::default": "391cb9e0"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36679,7 +36692,7 @@
             "hash": "777e2c92",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "777e2c92"
+              "core::default": "777e2c92"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36692,7 +36705,7 @@
             "hash": "44903ecb",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "44903ecb"
+              "core::default": "44903ecb"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36705,7 +36718,7 @@
             "hash": "0af2abb9",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "0af2abb9"
+              "core::default": "0af2abb9"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36718,7 +36731,7 @@
             "hash": "a2b9f58f",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "a2b9f58f"
+              "core::default": "a2b9f58f"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36731,7 +36744,7 @@
             "hash": "ecdb60fd",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "ecdb60fd"
+              "core::default": "ecdb60fd"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36744,7 +36757,7 @@
             "hash": "330eec3b",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "330eec3b"
+              "core::default": "330eec3b"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36757,7 +36770,7 @@
             "hash": "d527277f",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "d527277f"
+              "core::default": "d527277f"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36770,7 +36783,7 @@
             "hash": "a8aba054",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "a8aba054"
+              "core::default": "a8aba054"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36783,7 +36796,7 @@
             "hash": "4e826b10",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "4e826b10"
+              "core::default": "4e826b10"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36798,7 +36811,7 @@
             "hash": "e9cf04e4",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "e9cf04e4"
+              "core::default": "e9cf04e4"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36811,7 +36824,7 @@
             "hash": "a7ad9196",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "a7ad9196"
+              "core::default": "a7ad9196"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36824,7 +36837,7 @@
             "hash": "944383cf",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "944383cf"
+              "core::default": "944383cf"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36837,7 +36850,7 @@
             "hash": "da2116bd",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "da2116bd"
+              "core::default": "da2116bd"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36850,7 +36863,7 @@
             "hash": "726a488b",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "726a488b"
+              "core::default": "726a488b"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36863,7 +36876,7 @@
             "hash": "3c08ddf9",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "3c08ddf9"
+              "core::default": "3c08ddf9"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36876,7 +36889,7 @@
             "hash": "e3dd513f",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "e3dd513f"
+              "core::default": "e3dd513f"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36889,7 +36902,7 @@
             "hash": "05f49a7b",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "05f49a7b"
+              "core::default": "05f49a7b"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36902,7 +36915,7 @@
             "hash": "78781d50",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "78781d50"
+              "core::default": "78781d50"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36915,7 +36928,7 @@
             "hash": "9e51d614",
             "metaHash": "m1:9a367bdf",
             "modeHashes": {
-              "core::Default": "9e51d614"
+              "core::default": "9e51d614"
             },
             "sourceFile": "core.json",
             "sourceKind": "file",
@@ -36931,7 +36944,7 @@
           "hash": "080073e8",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "080073e8"
+            "core::default": "080073e8"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36944,7 +36957,7 @@
           "hash": "97093072",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "97093072"
+            "core::default": "97093072"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36957,7 +36970,7 @@
           "hash": "516639f5",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "516639f5"
+            "core::default": "516639f5"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36970,7 +36983,7 @@
           "hash": "13433e88",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "13433e88"
+            "core::default": "13433e88"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36983,7 +36996,7 @@
           "hash": "06c92cba",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "06c92cba"
+            "core::default": "06c92cba"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -36996,7 +37009,7 @@
           "hash": "eca10bca",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "eca10bca"
+            "core::default": "eca10bca"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37009,7 +37022,7 @@
           "hash": "ae840cb7",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "ae840cb7"
+            "core::default": "ae840cb7"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37022,7 +37035,7 @@
           "hash": "68eb0530",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "68eb0530"
+            "core::default": "68eb0530"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37035,7 +37048,7 @@
           "hash": "2ace024d",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "2ace024d"
+            "core::default": "2ace024d"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37048,7 +37061,7 @@
           "hash": "3f44107f",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "3f44107f"
+            "core::default": "3f44107f"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37061,7 +37074,7 @@
           "hash": "b9ff18f4",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "b9ff18f4"
+            "core::default": "b9ff18f4"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37074,7 +37087,7 @@
           "hash": "3db5160e",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "3db5160e"
+            "core::default": "3db5160e"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37087,7 +37100,7 @@
           "hash": "9fbb7240",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "9fbb7240"
+            "core::default": "9fbb7240"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37100,7 +37113,7 @@
           "hash": "1bf17cba",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "1bf17cba"
+            "core::default": "1bf17cba"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37113,7 +37126,7 @@
           "hash": "4c5e69f5",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "4c5e69f5"
+            "core::default": "4c5e69f5"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37126,7 +37139,7 @@
           "hash": "cae5617e",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "cae5617e"
+            "core::default": "cae5617e"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37139,7 +37152,7 @@
           "hash": "4eaf6f84",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "4eaf6f84"
+            "core::default": "4eaf6f84"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37152,7 +37165,7 @@
           "hash": "b14d5ac6",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "b14d5ac6"
+            "core::default": "b14d5ac6"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37165,7 +37178,7 @@
           "hash": "3507543c",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "3507543c"
+            "core::default": "3507543c"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37178,7 +37191,7 @@
           "hash": "e41349f8",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "e41349f8"
+            "core::default": "e41349f8"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37191,7 +37204,7 @@
           "hash": "2cd1926a",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "2cd1926a"
+            "core::default": "2cd1926a"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37206,7 +37219,7 @@
           "hash": "f60c1c03",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "f60c1c03"
+            "core::default": "f60c1c03"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37219,7 +37232,7 @@
           "hash": "abe04d0f",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "abe04d0f"
+            "core::default": "abe04d0f"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37232,7 +37245,7 @@
           "hash": "4dd4be1b",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "4dd4be1b"
+            "core::default": "4dd4be1b"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37245,7 +37258,7 @@
           "hash": "bba53e16",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "bba53e16"
+            "core::default": "bba53e16"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37258,7 +37271,7 @@
           "hash": "e6496f1a",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "e6496f1a"
+            "core::default": "e6496f1a"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37271,7 +37284,7 @@
           "hash": "2388fc9f",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "2388fc9f"
+            "core::default": "2388fc9f"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37284,7 +37297,7 @@
           "hash": "bf50ee2b",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "bf50ee2b"
+            "core::default": "bf50ee2b"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37297,7 +37310,7 @@
           "hash": "c8a27fcc",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "c8a27fcc"
+            "core::default": "c8a27fcc"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37310,7 +37323,7 @@
           "hash": "efa2cf60",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "efa2cf60"
+            "core::default": "efa2cf60"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37323,7 +37336,7 @@
           "hash": "778f0de9",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "778f0de9"
+            "core::default": "778f0de9"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37336,7 +37349,7 @@
           "hash": "2a635ce5",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "2a635ce5"
+            "core::default": "2a635ce5"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37349,7 +37362,7 @@
           "hash": "cc57aff1",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "cc57aff1"
+            "core::default": "cc57aff1"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37362,7 +37375,7 @@
           "hash": "984d66d7",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "984d66d7"
+            "core::default": "984d66d7"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37375,7 +37388,7 @@
           "hash": "69463d5a",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "69463d5a"
+            "core::default": "69463d5a"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37388,7 +37401,7 @@
           "hash": "34aa6c56",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "34aa6c56"
+            "core::default": "34aa6c56"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37401,7 +37414,7 @@
           "hash": "f59e2fee",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "f59e2fee"
+            "core::default": "f59e2fee"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37414,7 +37427,7 @@
           "hash": "13f4e05a",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "13f4e05a"
+            "core::default": "13f4e05a"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37429,7 +37442,7 @@
           "hash": "6a2098be",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "6a2098be"
+            "core::default": "6a2098be"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37444,7 +37457,7 @@
           "hash": "8c4a7d12",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "8c4a7d12"
+            "core::default": "8c4a7d12"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37457,7 +37470,7 @@
           "hash": "080073e8",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "080073e8"
+            "core::default": "080073e8"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37470,7 +37483,7 @@
           "hash": "5faf66a7",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "5faf66a7"
+            "core::default": "5faf66a7"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37483,7 +37496,7 @@
           "hash": "97093072",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "97093072"
+            "core::default": "97093072"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37498,7 +37511,7 @@
           "hash": "40e07d8c",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "40e07d8c"
+            "core::default": "40e07d8c"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37511,7 +37524,7 @@
           "hash": "b58a0e52",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "b58a0e52"
+            "core::default": "b58a0e52"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37526,7 +37539,7 @@
           "hash": "19305c7f",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "19305c7f"
+            "core::default": "19305c7f"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37539,7 +37552,7 @@
           "hash": "d59a5ce1",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "d59a5ce1"
+            "core::default": "d59a5ce1"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37552,7 +37565,7 @@
           "hash": "e6ba50cb",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "e6ba50cb"
+            "core::default": "e6ba50cb"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37565,7 +37578,7 @@
           "hash": "2a105055",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "2a105055"
+            "core::default": "2a105055"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37578,7 +37591,7 @@
           "hash": "a49f57b6",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "a49f57b6"
+            "core::default": "a49f57b6"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37591,7 +37604,7 @@
           "hash": "68355728",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "68355728"
+            "core::default": "68355728"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37604,7 +37617,7 @@
           "hash": "62f05e31",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "62f05e31"
+            "core::default": "62f05e31"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37617,7 +37630,7 @@
           "hash": "ae5a5eaf",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "ae5a5eaf"
+            "core::default": "ae5a5eaf"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37630,7 +37643,7 @@
           "hash": "20d5594c",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "20d5594c"
+            "core::default": "20d5594c"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37643,7 +37656,7 @@
           "hash": "ec7f59d2",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "ec7f59d2"
+            "core::default": "ec7f59d2"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37656,7 +37669,7 @@
           "hash": "355f4b7e",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "355f4b7e"
+            "core::default": "355f4b7e"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37669,7 +37682,7 @@
           "hash": "f9f54be0",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "f9f54be0"
+            "core::default": "f9f54be0"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37682,7 +37695,7 @@
           "hash": "5b155b02",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "5b155b02"
+            "core::default": "5b155b02"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37695,7 +37708,7 @@
           "hash": "df376c0e",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "df376c0e"
+            "core::default": "df376c0e"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37708,7 +37721,7 @@
           "hash": "139d6c90",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "139d6c90"
+            "core::default": "139d6c90"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37721,7 +37734,7 @@
           "hash": "9d126b73",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "9d126b73"
+            "core::default": "9d126b73"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37734,7 +37747,7 @@
           "hash": "51b86bed",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "51b86bed"
+            "core::default": "51b86bed"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37747,7 +37760,7 @@
           "hash": "5b7d62f4",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "5b7d62f4"
+            "core::default": "5b7d62f4"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37760,7 +37773,7 @@
           "hash": "97d7626a",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "97d7626a"
+            "core::default": "97d7626a"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37773,7 +37786,7 @@
           "hash": "97bf5b9c",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "97bf5b9c"
+            "core::default": "97bf5b9c"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37786,7 +37799,7 @@
           "hash": "9d7a5285",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "9d7a5285"
+            "core::default": "9d7a5285"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37799,7 +37812,7 @@
           "hash": "51d0521b",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "51d0521b"
+            "core::default": "51d0521b"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37812,7 +37825,7 @@
           "hash": "df5f55f8",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "df5f55f8"
+            "core::default": "df5f55f8"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37825,7 +37838,7 @@
           "hash": "13f55566",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "13f55566"
+            "core::default": "13f55566"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37838,7 +37851,7 @@
           "hash": "cad547ca",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "cad547ca"
+            "core::default": "cad547ca"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37851,7 +37864,7 @@
           "hash": "067f4754",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "067f4754"
+            "core::default": "067f4754"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37866,7 +37879,7 @@
           "hash": "19305c7f",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "19305c7f"
+            "core::default": "19305c7f"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37879,7 +37892,7 @@
           "hash": "d59a5ce1",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "d59a5ce1"
+            "core::default": "d59a5ce1"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37892,7 +37905,7 @@
           "hash": "e6ba50cb",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "e6ba50cb"
+            "core::default": "e6ba50cb"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37905,7 +37918,7 @@
           "hash": "2a105055",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "2a105055"
+            "core::default": "2a105055"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37918,7 +37931,7 @@
           "hash": "a49f57b6",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "a49f57b6"
+            "core::default": "a49f57b6"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37931,7 +37944,7 @@
           "hash": "68355728",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "68355728"
+            "core::default": "68355728"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37944,7 +37957,7 @@
           "hash": "62f05e31",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "62f05e31"
+            "core::default": "62f05e31"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37957,7 +37970,7 @@
           "hash": "ae5a5eaf",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "ae5a5eaf"
+            "core::default": "ae5a5eaf"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37970,7 +37983,7 @@
           "hash": "20d5594c",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "20d5594c"
+            "core::default": "20d5594c"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37983,7 +37996,7 @@
           "hash": "ec7f59d2",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "ec7f59d2"
+            "core::default": "ec7f59d2"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -37996,7 +38009,7 @@
           "hash": "355f4b7e",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "355f4b7e"
+            "core::default": "355f4b7e"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38009,7 +38022,7 @@
           "hash": "f9f54be0",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "f9f54be0"
+            "core::default": "f9f54be0"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38022,7 +38035,7 @@
           "hash": "5b155b02",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "5b155b02"
+            "core::default": "5b155b02"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38035,7 +38048,7 @@
           "hash": "df376c0e",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "df376c0e"
+            "core::default": "df376c0e"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38048,7 +38061,7 @@
           "hash": "139d6c90",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "139d6c90"
+            "core::default": "139d6c90"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38061,7 +38074,7 @@
           "hash": "9d126b73",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "9d126b73"
+            "core::default": "9d126b73"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38074,7 +38087,7 @@
           "hash": "51b86bed",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "51b86bed"
+            "core::default": "51b86bed"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38087,7 +38100,7 @@
           "hash": "5b7d62f4",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "5b7d62f4"
+            "core::default": "5b7d62f4"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38100,7 +38113,7 @@
           "hash": "97d7626a",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "97d7626a"
+            "core::default": "97d7626a"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38113,7 +38126,7 @@
           "hash": "97bf5b9c",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "97bf5b9c"
+            "core::default": "97bf5b9c"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38126,7 +38139,7 @@
           "hash": "9d7a5285",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "9d7a5285"
+            "core::default": "9d7a5285"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38139,7 +38152,7 @@
           "hash": "51d0521b",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "51d0521b"
+            "core::default": "51d0521b"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38152,7 +38165,7 @@
           "hash": "df5f55f8",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "df5f55f8"
+            "core::default": "df5f55f8"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38165,7 +38178,7 @@
           "hash": "13f55566",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "13f55566"
+            "core::default": "13f55566"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38178,7 +38191,7 @@
           "hash": "cad547ca",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "cad547ca"
+            "core::default": "cad547ca"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38191,7 +38204,7 @@
           "hash": "067f4754",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "core::Default": "067f4754"
+            "core::default": "067f4754"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38205,7 +38218,7 @@
         "hash": "ce6f7a6f",
         "metaHash": "m1:9a367bdf",
         "modeHashes": {
-          "core::Default": "ce6f7a6f"
+          "core::default": "ce6f7a6f"
         },
         "sourceFile": "core.json",
         "sourceKind": "file",
@@ -38380,7 +38393,7 @@
           "hash": "a175e364",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "a175e364"
+            "common::default": "a175e364"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38393,7 +38406,7 @@
           "hash": "d0224f26",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "d0224f26"
+            "common::default": "d0224f26"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38408,7 +38421,7 @@
           "hash": "7fb8ebce",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "7fb8ebce"
+            "common::default": "7fb8ebce"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38421,7 +38434,7 @@
           "hash": "de181582",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "de181582"
+            "common::default": "de181582"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38434,7 +38447,7 @@
           "hash": "948f50cd",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "948f50cd"
+            "common::default": "948f50cd"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38447,7 +38460,7 @@
           "hash": "948f50cd",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "948f50cd"
+            "common::default": "948f50cd"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38460,7 +38473,7 @@
           "hash": "7fb8ebce",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "7fb8ebce"
+            "common::default": "7fb8ebce"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38473,7 +38486,7 @@
           "hash": "7fb8ebce",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "7fb8ebce"
+            "common::default": "7fb8ebce"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38486,7 +38499,7 @@
           "hash": "948f50cd",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "948f50cd"
+            "common::default": "948f50cd"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38499,7 +38512,7 @@
           "hash": "948f50cd",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "948f50cd"
+            "common::default": "948f50cd"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38512,7 +38525,7 @@
           "hash": "7fb8ebce",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "7fb8ebce"
+            "common::default": "7fb8ebce"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38525,7 +38538,7 @@
           "hash": "72a69b89",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "72a69b89"
+            "common::default": "72a69b89"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38540,7 +38553,7 @@
           "hash": "62438f62",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "62438f62"
+            "common::default": "62438f62"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38553,7 +38566,7 @@
           "hash": "62438f62",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "62438f62"
+            "common::default": "62438f62"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38566,7 +38579,7 @@
           "hash": "8b49a2ce",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "8b49a2ce"
+            "common::default": "8b49a2ce"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38579,7 +38592,7 @@
           "hash": "66b65f5f",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "66b65f5f"
+            "common::default": "66b65f5f"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38592,7 +38605,7 @@
           "hash": "4ca89fb4",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "4ca89fb4"
+            "common::default": "4ca89fb4"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38605,7 +38618,7 @@
           "hash": "62438f62",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "62438f62"
+            "common::default": "62438f62"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38618,7 +38631,7 @@
           "hash": "8b49a2ce",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "8b49a2ce"
+            "common::default": "8b49a2ce"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38631,7 +38644,7 @@
           "hash": "6d798458",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "6d798458"
+            "common::default": "6d798458"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38646,7 +38659,7 @@
           "hash": "94b17f52",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "94b17f52"
+            "common::default": "94b17f52"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38659,7 +38672,7 @@
           "hash": "ad3c4397",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "ad3c4397"
+            "common::default": "ad3c4397"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38676,7 +38689,7 @@
           "hash": "9fd3253a",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "9fd3253a"
+            "common::default": "9fd3253a"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38689,7 +38702,7 @@
           "hash": "88a83179",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "88a83179"
+            "common::default": "88a83179"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38702,7 +38715,7 @@
           "hash": "b1250dbc",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "b1250dbc"
+            "common::default": "b1250dbc"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38715,7 +38728,7 @@
           "hash": "a65e19ff",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "a65e19ff"
+            "common::default": "a65e19ff"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38728,7 +38741,7 @@
           "hash": "c23f7436",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "c23f7436"
+            "common::default": "c23f7436"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38741,7 +38754,7 @@
           "hash": "d5446075",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "d5446075"
+            "common::default": "d5446075"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38756,7 +38769,7 @@
           "hash": "38978565",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "38978565"
+            "common::default": "38978565"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38769,7 +38782,7 @@
           "hash": "5dd5e9e2",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "5dd5e9e2"
+            "common::default": "5dd5e9e2"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38782,7 +38795,7 @@
           "hash": "f9195aa5",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "f9195aa5"
+            "common::default": "f9195aa5"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38795,7 +38808,7 @@
           "hash": "60fb3ca4",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "60fb3ca4"
+            "common::default": "60fb3ca4"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38808,7 +38821,7 @@
           "hash": "a175e364",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "a175e364"
+            "common::default": "a175e364"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38821,7 +38834,7 @@
           "hash": "884ef6e7",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "884ef6e7"
+            "common::default": "884ef6e7"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38834,7 +38847,7 @@
           "hash": "53291692",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "53291692"
+            "common::default": "53291692"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38847,7 +38860,7 @@
           "hash": "49c02927",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "49c02927"
+            "common::default": "49c02927"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38860,7 +38873,7 @@
           "hash": "d0224f26",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "d0224f26"
+            "common::default": "d0224f26"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38873,7 +38886,7 @@
           "hash": "11ac90e6",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "11ac90e6"
+            "common::default": "11ac90e6"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38886,7 +38899,7 @@
           "hash": "82546420",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "82546420"
+            "common::default": "82546420"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38899,7 +38912,7 @@
           "hash": "43dabbe0",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "43dabbe0"
+            "common::default": "43dabbe0"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38912,7 +38925,7 @@
           "hash": "557700f7",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "557700f7"
+            "common::default": "557700f7"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38927,7 +38940,7 @@
           "hash": "8b49a2ce",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "8b49a2ce"
+            "common::default": "8b49a2ce"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38940,7 +38953,7 @@
           "hash": "d6a5f3c2",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "d6a5f3c2"
+            "common::default": "d6a5f3c2"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38953,7 +38966,7 @@
           "hash": "309100d6",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "309100d6"
+            "common::default": "309100d6"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38966,7 +38979,7 @@
           "hash": "4ca89fb4",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "4ca89fb4"
+            "common::default": "4ca89fb4"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38979,7 +38992,7 @@
           "hash": "89690c31",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "89690c31"
+            "common::default": "89690c31"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -38992,7 +39005,7 @@
           "hash": "15b11e85",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "15b11e85"
+            "common::default": "15b11e85"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39005,7 +39018,7 @@
           "hash": "62438f62",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "62438f62"
+            "common::default": "62438f62"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39018,7 +39031,7 @@
           "hash": "dd6efd47",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "dd6efd47"
+            "common::default": "dd6efd47"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39031,7 +39044,7 @@
           "hash": "32ac9679",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "32ac9679"
+            "common::default": "32ac9679"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39044,7 +39057,7 @@
           "hash": "c3a7cdf4",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "c3a7cdf4"
+            "common::default": "c3a7cdf4"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39057,7 +39070,7 @@
           "hash": "6d798458",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "6d798458"
+            "common::default": "6d798458"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39072,7 +39085,7 @@
           "hash": "c4e13947",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "c4e13947"
+            "common::default": "c4e13947"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39085,7 +39098,7 @@
           "hash": "5d035f46",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "5d035f46"
+            "common::default": "5d035f46"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39098,7 +39111,7 @@
           "hash": "9c8d8086",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "9c8d8086"
+            "common::default": "9c8d8086"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39111,7 +39124,7 @@
           "hash": "b5b69505",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "b5b69505"
+            "common::default": "b5b69505"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39124,7 +39137,7 @@
           "hash": "74384ac5",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "74384ac5"
+            "common::default": "74384ac5"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39137,7 +39150,7 @@
           "hash": "edda2cc4",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "edda2cc4"
+            "common::default": "edda2cc4"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39150,7 +39163,7 @@
           "hash": "2c54f304",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "2c54f304"
+            "common::default": "2c54f304"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39163,7 +39176,7 @@
           "hash": "bfac07c2",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "bfac07c2"
+            "common::default": "bfac07c2"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39176,7 +39189,7 @@
           "hash": "7e22d802",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "7e22d802"
+            "common::default": "7e22d802"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39189,7 +39202,7 @@
           "hash": "1b4e7bc0",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "1b4e7bc0"
+            "common::default": "1b4e7bc0"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39202,7 +39215,7 @@
           "hash": "dac0a400",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "dac0a400"
+            "common::default": "dac0a400"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39215,7 +39228,7 @@
           "hash": "4322c201",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "4322c201"
+            "common::default": "4322c201"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39228,7 +39241,7 @@
           "hash": "82ac1dc1",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "82ac1dc1"
+            "common::default": "82ac1dc1"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39241,7 +39254,7 @@
           "hash": "ab970842",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "ab970842"
+            "common::default": "ab970842"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39254,7 +39267,7 @@
           "hash": "6a19d782",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "6a19d782"
+            "common::default": "6a19d782"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39267,7 +39280,7 @@
           "hash": "f3fbb183",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "f3fbb183"
+            "common::default": "f3fbb183"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39280,7 +39293,7 @@
           "hash": "32756e43",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "32756e43"
+            "common::default": "32756e43"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39293,7 +39306,7 @@
           "hash": "a18d9a85",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "a18d9a85"
+            "common::default": "a18d9a85"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39306,7 +39319,7 @@
           "hash": "60034545",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "60034545"
+            "common::default": "60034545"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39319,7 +39332,7 @@
           "hash": "6cd0a930",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "6cd0a930"
+            "common::default": "6cd0a930"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39334,7 +39347,7 @@
           "hash": "668e6502",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "668e6502"
+            "common::default": "668e6502"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39347,7 +39360,7 @@
           "hash": "45152313",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "45152313"
+            "common::default": "45152313"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39360,7 +39373,7 @@
           "hash": "a700bac2",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "a700bac2"
+            "common::default": "a700bac2"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39373,7 +39386,7 @@
           "hash": "b6ef1365",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "b6ef1365"
+            "common::default": "b6ef1365"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39386,7 +39399,7 @@
           "hash": "3ee2dcc3",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "3ee2dcc3"
+            "common::default": "3ee2dcc3"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39399,7 +39412,7 @@
           "hash": "db69e03f",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "db69e03f"
+            "common::default": "db69e03f"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39412,7 +39425,7 @@
           "hash": "ff6c0303",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "ff6c0303"
+            "common::default": "ff6c0303"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39425,7 +39438,7 @@
           "hash": "d6571680",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "d6571680"
+            "common::default": "d6571680"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39438,7 +39451,7 @@
           "hash": "17d9c940",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "17d9c940"
+            "common::default": "17d9c940"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39451,7 +39464,7 @@
           "hash": "8e3baf41",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "8e3baf41"
+            "common::default": "8e3baf41"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39464,7 +39477,7 @@
           "hash": "4fb57081",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "4fb57081"
+            "common::default": "4fb57081"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39477,7 +39490,7 @@
           "hash": "dc4d8447",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "dc4d8447"
+            "common::default": "dc4d8447"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39490,7 +39503,7 @@
           "hash": "1dc35b87",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "1dc35b87"
+            "common::default": "1dc35b87"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39503,7 +39516,7 @@
           "hash": "86ffedec",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "86ffedec"
+            "common::default": "86ffedec"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39516,7 +39529,7 @@
           "hash": "4771322c",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "4771322c"
+            "common::default": "4771322c"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39529,7 +39542,7 @@
           "hash": "de93542d",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "de93542d"
+            "common::default": "de93542d"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39542,7 +39555,7 @@
           "hash": "1f1d8bed",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "1f1d8bed"
+            "common::default": "1f1d8bed"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39555,7 +39568,7 @@
           "hash": "36269e6e",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "36269e6e"
+            "common::default": "36269e6e"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39568,7 +39581,7 @@
           "hash": "f7a841ae",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "f7a841ae"
+            "common::default": "f7a841ae"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39581,7 +39594,7 @@
           "hash": "6e4a27af",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "6e4a27af"
+            "common::default": "6e4a27af"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39594,7 +39607,7 @@
           "hash": "afc4f86f",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "afc4f86f"
+            "common::default": "afc4f86f"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39607,7 +39620,7 @@
           "hash": "3c3c0ca9",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "3c3c0ca9"
+            "common::default": "3c3c0ca9"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39620,7 +39633,7 @@
           "hash": "fdb2d369",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "fdb2d369"
+            "common::default": "fdb2d369"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39633,7 +39646,7 @@
           "hash": "f1613f1c",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "f1613f1c"
+            "common::default": "f1613f1c"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39646,7 +39659,7 @@
           "hash": "84284a6e",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "84284a6e"
+            "common::default": "84284a6e"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39659,7 +39672,7 @@
           "hash": "0aa74d8d",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "0aa74d8d"
+            "common::default": "0aa74d8d"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39672,7 +39685,7 @@
           "hash": "c60d4d13",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "c60d4d13"
+            "common::default": "c60d4d13"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39685,7 +39698,7 @@
           "hash": "ccc8440a",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "ccc8440a"
+            "common::default": "ccc8440a"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39698,7 +39711,7 @@
           "hash": "00624494",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "00624494"
+            "common::default": "00624494"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39711,7 +39724,7 @@
           "hash": "8eed4377",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "8eed4377"
+            "common::default": "8eed4377"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39724,7 +39737,7 @@
           "hash": "424743e9",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "424743e9"
+            "common::default": "424743e9"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39737,7 +39750,7 @@
           "hash": "9b675145",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "9b675145"
+            "common::default": "9b675145"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39750,7 +39763,7 @@
           "hash": "57cd51db",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "57cd51db"
+            "common::default": "57cd51db"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39763,7 +39776,7 @@
           "hash": "5ff95eb3",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "5ff95eb3"
+            "common::default": "5ff95eb3"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39776,7 +39789,7 @@
           "hash": "93535e2d",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "93535e2d"
+            "common::default": "93535e2d"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39789,7 +39802,7 @@
           "hash": "1ddc59ce",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "1ddc59ce"
+            "common::default": "1ddc59ce"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39802,7 +39815,7 @@
           "hash": "d1765950",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "d1765950"
+            "common::default": "d1765950"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39815,7 +39828,7 @@
           "hash": "dbb35049",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "dbb35049"
+            "common::default": "dbb35049"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39828,7 +39841,7 @@
           "hash": "171950d7",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "171950d7"
+            "common::default": "171950d7"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39841,7 +39854,7 @@
           "hash": "99965734",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "99965734"
+            "common::default": "99965734"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39854,7 +39867,7 @@
           "hash": "553c57aa",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "553c57aa"
+            "common::default": "553c57aa"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39867,7 +39880,7 @@
           "hash": "8c1c4506",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "8c1c4506"
+            "common::default": "8c1c4506"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39880,7 +39893,7 @@
           "hash": "40b64598",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "40b64598"
+            "common::default": "40b64598"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39893,7 +39906,7 @@
           "hash": "3b98337a",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "3b98337a"
+            "common::default": "3b98337a"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39906,7 +39919,7 @@
           "hash": "73783d1e",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "73783d1e"
+            "common::default": "73783d1e"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39919,7 +39932,7 @@
           "hash": "2ce32739",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "2ce32739"
+            "common::default": "2ce32739"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39932,7 +39945,7 @@
           "hash": "6403295d",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "6403295d"
+            "common::default": "6403295d"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39945,7 +39958,7 @@
           "hash": "156e1bfc",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "156e1bfc"
+            "common::default": "156e1bfc"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39958,7 +39971,7 @@
           "hash": "5d8e1598",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "5d8e1598"
+            "common::default": "5d8e1598"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
@@ -39971,7 +39984,7 @@
           "hash": "02150fbf",
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
-            "common::Default": "02150fbf"
+            "common::default": "02150fbf"
           },
           "sourceFile": "common.json",
           "sourceKind": "file",
