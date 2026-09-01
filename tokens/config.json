@@ -1,0 +1,105 @@
+{
+  "$schema": "sxl-studio/config",
+  "$version": "1.0",
+  "settings": {
+    "remBase": 1
+  },
+  "collections": [
+    {
+      "name": "palette",
+      "enabled": true,
+      "modes": [
+        {
+          "name": "Default",
+          "enabled": true,
+          "files": {
+            "palette.json": "enabled"
+          }
+        }
+      ]
+    },
+    {
+      "name": "core",
+      "enabled": true,
+      "modes": [
+        {
+          "name": "Default",
+          "enabled": true,
+          "files": {
+            "core.json": "enabled"
+          }
+        }
+      ]
+    },
+    {
+      "name": "common",
+      "enabled": true,
+      "modes": [
+        {
+          "name": "Default",
+          "enabled": true,
+          "files": {
+            "common.json": "enabled"
+          }
+        }
+      ]
+    },
+    {
+      "name": "typography",
+      "enabled": true,
+      "modes": [
+        {
+          "name": "Default",
+          "enabled": true,
+          "files": {
+            "typography.json": "enabled"
+          }
+        }
+      ]
+    },
+    {
+      "name": "themes",
+      "enabled": true,
+      "modes": [
+        {
+          "name": "hh-day",
+          "enabled": true,
+          "files": {
+            "themes/hh-day.json": "enabled"
+          }
+        },
+        {
+          "name": "hh-night",
+          "enabled": true,
+          "files": {
+            "themes/hh-night.json": "enabled"
+          }
+        },
+        {
+          "name": "zp-day",
+          "enabled": true,
+          "files": {
+            "themes/zp-day.json": "enabled"
+          }
+        }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "name": "sources",
+      "collections": [
+        "palette",
+        "core",
+        "common",
+        "typography"
+      ]
+    },
+    {
+      "name": "themes",
+      "collections": [
+        "themes"
+      ]
+    }
+  ]
+}
