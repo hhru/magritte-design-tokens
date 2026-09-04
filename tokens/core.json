@@ -60,6 +60,10 @@
       "2000": {
         "$value": "80",
         "$type": "fontSize"
+      },
+      "200": {
+        "$value": 8,
+        "$type": "fontSize"
       }
     },
     "lineHeights": {
@@ -145,6 +149,10 @@
       },
       "2300": {
         "$value": "92",
+        "$type": "lineHeight"
+      },
+      "200": {
+        "$value": 8,
         "$type": "lineHeight"
       }
     },
