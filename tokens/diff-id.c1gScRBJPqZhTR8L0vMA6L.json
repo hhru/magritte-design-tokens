@@ -24,7 +24,6 @@
     "typography": {
       "figmaId": "VariableCollectionId:3265:2217",
       "modes": {
-        "Default": "3265:6",
         "default": "3265:6"
       }
     },
@@ -39,18 +38,6 @@
   },
   "compatibility": {
     "migrations": {}
-  },
-  "structuralModeFences": {
-    "typography": {
-      "reason": "identity-unproven",
-      "collectionId": "VariableCollectionId:3265:2217",
-      "lostModes": {
-        "Default": "3265:6"
-      },
-      "gainedModes": [
-        "default"
-      ]
-    }
   },
   "variables": {
     "color": {
@@ -36474,6 +36461,19 @@
           "sourceKind": "file",
           "tokenType": "fontSize"
         },
+        "200": {
+          "collectionPath": "core",
+          "figmaId": "VariableID:3998:2",
+          "figmaKey": "1fd22880230449f3d12b918548a8d453ff078004",
+          "hash": "5faf66a7",
+          "metaHash": "m1:9a367bdf",
+          "modeHashes": {
+            "core::default": "5faf66a7"
+          },
+          "sourceFile": "core.json",
+          "sourceKind": "file",
+          "tokenType": "fontSize"
+        },
         "250": {
           "collectionPath": "core",
           "figmaId": "VariableID:3265:2219",
@@ -36945,6 +36945,19 @@
           "metaHash": "m1:9a367bdf",
           "modeHashes": {
             "core::default": "080073e8"
+          },
+          "sourceFile": "core.json",
+          "sourceKind": "file",
+          "tokenType": "lineHeight"
+        },
+        "200": {
+          "collectionPath": "core",
+          "figmaId": "VariableID:3998:3",
+          "figmaKey": "0f2543449bc19aa60c2a77d82d7e3c57761d5d8d",
+          "hash": "5faf66a7",
+          "metaHash": "m1:9a367bdf",
+          "modeHashes": {
+            "core::default": "5faf66a7"
           },
           "sourceFile": "core.json",
           "sourceKind": "file",
@@ -38233,7 +38246,8 @@
         "hash": "7d0d2e28",
         "metaHash": "m1:9a367bdf",
         "modeHashes": {
-          "typography::Default": "7d0d2e28"
+          "typography::Default": "7d0d2e28",
+          "typography::default": "7d0d2e28"
         },
         "sourceFile": "typography.json",
         "sourceKind": "file",
@@ -38246,7 +38260,8 @@
         "hash": "7d0d2e28",
         "metaHash": "m1:9a367bdf",
         "modeHashes": {
-          "typography::Default": "7d0d2e28"
+          "typography::Default": "7d0d2e28",
+          "typography::default": "7d0d2e28"
         },
         "sourceFile": "typography.json",
         "sourceKind": "file",
@@ -38261,7 +38276,8 @@
         "hash": "4d7a797c",
         "metaHash": "m1:9a367bdf",
         "modeHashes": {
-          "typography::Default": "4d7a797c"
+          "typography::Default": "4d7a797c",
+          "typography::default": "4d7a797c"
         },
         "sourceFile": "typography.json",
         "sourceKind": "file",
@@ -38274,7 +38290,8 @@
         "hash": "f581f94b",
         "metaHash": "m1:9a367bdf",
         "modeHashes": {
-          "typography::Default": "f581f94b"
+          "typography::Default": "f581f94b",
+          "typography::default": "f581f94b"
         },
         "sourceFile": "typography.json",
         "sourceKind": "file",
@@ -38287,7 +38304,8 @@
         "hash": "6a85f61f",
         "metaHash": "m1:9a367bdf",
         "modeHashes": {
-          "typography::Default": "6a85f61f"
+          "typography::Default": "6a85f61f",
+          "typography::default": "6a85f61f"
         },
         "sourceFile": "typography.json",
         "sourceKind": "file",
@@ -38300,7 +38318,8 @@
         "hash": "096300ba",
         "metaHash": "m1:9a367bdf",
         "modeHashes": {
-          "typography::Default": "096300ba"
+          "typography::Default": "096300ba",
+          "typography::default": "096300ba"
         },
         "sourceFile": "typography.json",
         "sourceKind": "file",
@@ -38313,7 +38332,8 @@
         "hash": "6a85f61f",
         "metaHash": "m1:9a367bdf",
         "modeHashes": {
-          "typography::Default": "6a85f61f"
+          "typography::Default": "6a85f61f",
+          "typography::default": "6a85f61f"
         },
         "sourceFile": "typography.json",
         "sourceKind": "file",
