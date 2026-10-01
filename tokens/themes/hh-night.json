@@ -544,6 +544,11 @@
         "$type": "color",
         "$description": "night"
       },
+      "phantom-alt": {
+        "$value": "{color.base.gray.20}",
+        "$type": "color",
+        "$description": "night"
+      },
       "accent": {
         "$value": "{color.base.blue.55}",
         "$type": "color",
@@ -634,6 +639,21 @@
       "phantom-disabled": {
         "$value": "rgba({color.base.gray.20}, {semantic.opacity.transparent})",
         "$type": "color"
+      },
+      "phantom-alt-hovered": {
+        "$value": "{color.base.gray.20}",
+        "$type": "color",
+        "$description": "night"
+      },
+      "phantom-alt-pressed": {
+        "$value": "{color.base.gray.20}",
+        "$type": "color",
+        "$description": "night"
+      },
+      "phantom-alt-disabled": {
+        "$value":  "rgba( {color.base.gray.20}, {semantic.opacity.disabled})",
+        "$type": "color",
+        "$description": "night"
       },
       "neutral-inner-hovered": {
         "$value": "{color.stroke.neutral}",

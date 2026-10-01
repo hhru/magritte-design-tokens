@@ -509,6 +509,10 @@
         "$value": "{color.base.graphite.90}",
         "$type": "color"
       },
+       "phantom-alt": {
+        "$value":  "rgba({color.base.gray.20}, {semantic.opacity.transparent})",
+        "$type": "color"
+      },
       "overlay": {
         "$value": "rgba( {color.base.graphite.45} , {static.opacity.24})",
         "$type": "color"
@@ -581,6 +585,10 @@
         "$value": "{color.base.graphite.90}",
         "$type": "color"
       },
+      "phantom-alt-hovered": {
+        "$value":  "rgba({color.base.gray.20}, {semantic.opacity.transparent})",
+        "$type": "color"
+      },
       "neutral-pressed": {
         "$value": "{color.base.graphite.90}",
         "$type": "color"
@@ -589,12 +597,20 @@
         "$value": "{color.base.graphite.90}",
         "$type": "color"
       },
+      "phantom-alt-pressed": {
+        "$value":  "rgba({color.base.gray.20}, {semantic.opacity.transparent})",
+        "$type": "color"
+      },
       "neutral-disabled": {
         "$value": "rgba({color.base.graphite.90}, {semantic.opacity.disabled})",
         "$type": "color"
       },
       "phantom-disabled": {
         "$value": "rgba({color.base.graphite.90}, {semantic.opacity.disabled})",
+        "$type": "color"
+      },
+      "phantom-alt-disabled": {
+        "$value":  "rgba({color.base.gray.20}, {semantic.opacity.transparent})",
         "$type": "color"
       },
       "neutral-inner-hovered": {
