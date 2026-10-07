@@ -651,7 +651,7 @@
         "$description": "night"
       },
       "phantom-alt-disabled": {
-        "$value":  "rgba( {color.base.gray.20}, {semantic.opacity.disabled})",
+        "$value": "rgba( {color.base.gray.20}, {semantic.opacity.disabled})",
         "$type": "color",
         "$description": "night"
       },
@@ -8526,7 +8526,7 @@
               "$description": "night"
             },
             "image": {
-              "$value": "rgba(#000000, 10%)",
+              "$value": "rgba({color.base.black}, 0.1)",
               "$type": "color",
               "$description": "night"
             }
