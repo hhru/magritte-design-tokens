@@ -47,224 +47,178 @@
     "scale": {
       "pressed": {
         "$value": "{core.scale.2}",
-        "$type": "scaling"
+        "$type": "number"
       },
       "default": {
         "$value": "{core.scale.1}",
-        "$type": "scaling"
+        "$type": "number"
       }
     },
     "animation": {
       "time": {
         "xs": {
-          "$value": {
-            "duration": "100"
-          },
-          "$type": "animationTime"
+          "$value": "100ms",
+          "$type": "duration"
         },
         "s": {
-          "$value": {
-            "duration": "200"
-          },
-          "$type": "animationTime"
+          "$value": "200ms",
+          "$type": "duration"
         },
         "m": {
-          "$value": {
-            "duration": "400"
-          },
-          "$type": "animationTime"
+          "$value": "400ms",
+          "$type": "duration"
         },
         "l": {
-          "$value": {
-            "duration": "600"
-          },
-          "$type": "animationTime"
+          "$value": "600ms",
+          "$type": "duration"
         },
         "xl": {
-          "$value": {
-            "duration": "800"
-          },
-          "$type": "animationTime"
+          "$value": "800ms",
+          "$type": "duration"
         }
       },
       "ease": {
         "base": {
-          "$value": {
-            "x1": "0.4",
-            "y1": "0.24",
-            "x2": "0",
-            "y2": "1"
-          },
-          "$type": "animationEaseBase"
+          "$value": [
+            0.4,
+            0.24,
+            0,
+            1
+          ],
+          "$type": "cubicBezier"
         },
         "spring": {
-          "$value": {
-            "stiffness": "400",
-            "damping": "30",
-            "mass": "1"
-          },
-          "$type": "animationEaseSpring"
+          "$value": "spring(1, 400, 30, 0)",
+          "$type": "easing"
         }
       },
       "ease-in-out-100": {
         "$value": {
-          "x1": "0.25",
-          "y1": "0.1",
-          "x2": "0.25",
-          "y2": "1",
-          "duration": "100"
+          "duration": "100ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-200": {
         "$value": {
-          "x1": "0.25",
-          "y1": "0.1",
-          "x2": "0.25",
-          "y2": "1",
-          "duration": "200"
+          "duration": "200ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-300": {
         "$value": {
-          "x1": "0.25",
-          "y1": "0.1",
-          "x2": "0.25",
-          "y2": "1",
-          "duration": "300"
+          "duration": "300ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-400": {
         "$value": {
-          "x1": "0.25",
-          "y1": "0.1",
-          "x2": "0.25",
-          "y2": "1",
-          "duration": "400"
+          "duration": "400ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-500": {
         "$value": {
-          "x1": "0.25",
-          "y1": "0.1",
-          "x2": "0.25",
-          "y2": "1",
-          "duration": "500"
+          "duration": "500ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-tiger-100": {
         "$value": {
-          "x1": "0.25",
-          "y1": "0.1",
-          "x2": "0.25",
-          "y2": "1",
-          "duration": "100"
+          "duration": "100ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-tiger-200": {
         "$value": {
-          "x1": "0.25",
-          "y1": "0.1",
-          "x2": "0.25",
-          "y2": "1",
-          "duration": "200"
+          "duration": "200ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-tiger-300": {
         "$value": {
-          "x1": "0.25",
-          "y1": "0.1",
-          "x2": "0.25",
-          "y2": "1",
-          "duration": "300"
+          "duration": "300ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-tiger-400": {
         "$value": {
-          "x1": "0.25",
-          "y1": "0.1",
-          "x2": "0.25",
-          "y2": "1",
-          "duration": "400"
+          "duration": "400ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-tiger-500": {
         "$value": {
-          "x1": "0.25",
-          "y1": "0.1",
-          "x2": "0.25",
-          "y2": "1",
-          "duration": "500"
+          "duration": "500ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-tiger-800": {
         "$value": {
-          "x1": "0.25",
-          "y1": "0.1",
-          "x2": "0.25",
-          "y2": "1",
-          "duration": "800"
+          "duration": "800ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-leopard-100": {
         "$value": {
-          "x1": "0.35",
-          "y1": "0.1",
-          "x2": "0.1",
-          "y2": "1",
-          "duration": "100"
+          "duration": "100ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.35, 0.1, 0.1, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-leopard-200": {
         "$value": {
-          "x1": "0.35",
-          "y1": "0.1",
-          "x2": "0.1",
-          "y2": "1",
-          "duration": "200"
+          "duration": "200ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.35, 0.1, 0.1, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-leopard-300": {
         "$value": {
-          "x1": "0.35",
-          "y1": "0.1",
-          "x2": "0.1",
-          "y2": "1",
-          "duration": "300"
+          "duration": "300ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.35, 0.1, 0.1, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-leopard-400": {
         "$value": {
-          "x1": "0.35",
-          "y1": "0.1",
-          "x2": "0.1",
-          "y2": "1",
-          "duration": "400"
+          "duration": "400ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.35, 0.1, 0.1, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       },
       "ease-in-out-leopard-500": {
         "$value": {
-          "x1": "0.35",
-          "y1": "0.1",
-          "x2": "0.1",
-          "y2": "1",
-          "duration": "500"
+          "duration": "500ms",
+          "delay": "0ms",
+          "easing": "cubic-bezier(0.35, 0.1, 0.1, 1)"
         },
-        "$type": "animation"
+        "$type": "transition"
       }
     },
     "borderWidth": {
@@ -787,27 +741,27 @@
     "a11yScale": {
       "0": {
         "$value": "{core.a11yScale.0}",
-        "$type": "a11yScales"
+        "$type": "number"
       },
       "100": {
         "$value": "{core.a11yScale.1}",
-        "$type": "a11yScales"
+        "$type": "number"
       },
       "200": {
         "$value": "{core.a11yScale.2}",
-        "$type": "a11yScales"
+        "$type": "number"
       },
       "300": {
         "$value": "{core.a11yScale.3}",
-        "$type": "a11yScales"
+        "$type": "number"
       },
       "400": {
         "$value": "{core.a11yScale.4}",
-        "$type": "a11yScales"
+        "$type": "number"
       },
       "500": {
         "$value": "{core.a11yScale.5}",
-        "$type": "a11yScales"
+        "$type": "number"
       }
     },
     "blur": {
