@@ -176,38 +176,38 @@
     },
     "a11yScale": {
       "0": {
-        "$value": "0",
-        "$type": "a11yScales"
+        "$value": 0,
+        "$type": "number"
       },
       "1": {
-        "$value": "1",
-        "$type": "a11yScales"
+        "$value": 1,
+        "$type": "number"
       },
       "2": {
-        "$value": "2",
-        "$type": "a11yScales"
+        "$value": 2,
+        "$type": "number"
       },
       "3": {
-        "$value": "3",
-        "$type": "a11yScales"
+        "$value": 3,
+        "$type": "number"
       },
       "4": {
-        "$value": "4",
-        "$type": "a11yScales"
+        "$value": 4,
+        "$type": "number"
       },
       "5": {
-        "$value": "5",
-        "$type": "a11yScales"
+        "$value": 5,
+        "$type": "number"
       }
     },
     "scale": {
       "1": {
-        "$value": "1",
-        "$type": "scaling"
+        "$value": 1,
+        "$type": "number"
       },
       "2": {
-        "$value": "0.96",
-        "$type": "scaling"
+        "$value": 0.96,
+        "$type": "number"
       }
     },
     "size": {
@@ -529,12 +529,12 @@
       }
     },
     "x-base": {
-      "$value": "2",
-      "$type": "core"
+      "$value": 2,
+      "$type": "number"
     },
     "2-x-base": {
       "$value": "{core.x-base} * 2",
-      "$type": "core"
+      "$type": "number"
     },
     "opacity": {
       "0": {
