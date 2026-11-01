@@ -10336,7 +10336,7 @@
       "scrollable-container": {
         "fade": {
           "content": {
-            "$value": "linear-gradient(0deg, rgba({color.base.black}, {static.opacity.0}) 0%, rgba({color.base.black}, {static.opacity.100}) 100%)",
+            "$value": "linear-gradient(0deg, rgba({color.base.black}, 0) 0%, rgba({color.base.black}, 1) 100%)",
             "$type": "gradient",
             "$description": "night"
           }
@@ -10345,7 +10345,7 @@
       "modal": {
         "background": {
           "fade": {
-            "$value": "linear-gradient(180deg, rgba({color.base.black}, {static.opacity.0}) 0%, rgba({color.base.black}, {static.opacity.48}) 100%)",
+            "$value": "linear-gradient(180deg, rgba({color.base.black}, 0) 0%, rgba({color.base.black}, 0.48) 100%)",
             "$type": "gradient"
           }
         }
@@ -10361,7 +10361,7 @@
       "media-viewer": {
         "background": {
           "fade": {
-            "$value": "linear-gradient(180deg, rgba({color.base.black}, {static.opacity.0}) 0%, rgba({color.base.black}, {static.opacity.32}) 100%)",
+            "$value": "linear-gradient(180deg, rgba({color.base.black}, 0) 0%, rgba({color.base.black}, 0.32) 100%)",
             "$type": "gradient"
           }
         }
@@ -10369,7 +10369,7 @@
       "chat-input": {
         "background": {
           "fade": {
-            "$value": "linear-gradient(180deg, rgba({color.background.primary}, {static.opacity.0}) 0%, rgba({color.background.primary}, {static.opacity.100}) 100%)",
+            "$value": "linear-gradient(180deg, rgba({color.background.primary}, 0) 0%, rgba({color.background.primary}, 1) 100%)",
             "$type": "gradient"
           }
         }
@@ -10377,45 +10377,45 @@
     },
     "visualisation": {
       "fill-1": {
-        "$value": "linear-gradient(0deg, rgba({color.base.red.60}, {static.opacity.0}) 0%, rgba({color.base.red.60}, {static.opacity.100}) 100%)",
+        "$value": "linear-gradient(0deg, rgba({color.base.red.60}, 0) 0%, rgba({color.base.red.60}, 1) 100%)",
         "$type": "gradient"
       },
       "fill-2": {
-        "$value": "linear-gradient(0deg, rgba({color.base.green.65}, {static.opacity.0}) 0%, rgba({color.base.green.65}, {static.opacity.100}) 100%)",
+        "$value": "linear-gradient(0deg, rgba({color.base.green.65}, 0) 0%, rgba({color.base.green.65}, 1) 100%)",
         "$type": "gradient"
       },
       "fill-3": {
-        "$value": "linear-gradient(0deg, rgba({color.base.blue.55}, {static.opacity.0}) 0%, rgba({color.base.blue.55}, {static.opacity.100}) 100%)",
+        "$value": "linear-gradient(0deg, rgba({color.base.blue.55}, 0) 0%, rgba({color.base.blue.55}, 1) 100%)",
         "$type": "gradient"
       },
       "fill-4": {
-        "$value": "linear-gradient(0deg, rgba({color.base.violet.70}, {static.opacity.0}) 0%, rgba({color.base.violet.70}, {static.opacity.100}) 100%)",
+        "$value": "linear-gradient(0deg, rgba({color.base.violet.70}, 0) 0%, rgba({color.base.violet.70}, 1) 100%)",
         "$type": "gradient"
       },
       "fill-5": {
-        "$value": "linear-gradient(0deg, rgba({color.base.orange.60}, {static.opacity.0}) 0%, rgba({color.base.orange.60}, {static.opacity.100}) 100%)",
+        "$value": "linear-gradient(0deg, rgba({color.base.orange.60}, 0) 0%, rgba({color.base.orange.60}, 1) 100%)",
         "$type": "gradient"
       },
       "fill-6": {
-        "$value": "linear-gradient(0deg, rgba({color.base.gray.50}, {static.opacity.0}) 0%, rgba({color.base.gray.50}, {static.opacity.100}) 100%)",
+        "$value": "linear-gradient(0deg, rgba({color.base.gray.50}, 0) 0%, rgba({color.base.gray.50}, 1) 100%)",
         "$type": "gradient"
       }
     },
     "stop": {
       "transparent-0": {
-        "$value": "rgba({color.base.black}, {static.opacity.0})",
+        "$value": "rgba({color.base.black}, 0)",
         "$type": "color"
       },
       "transparent-0-constant": {
-        "$value": "rgba({color.base.white}, {static.opacity.0})",
+        "$value": "rgba({color.base.white}, 0)",
         "$type": "color"
       },
       "transparent-1": {
-        "$value": "rgba({color.base.white}, {static.opacity.0})",
+        "$value": "rgba({color.base.white}, 0)",
         "$type": "color"
       },
       "transparent-1-constant": {
-        "$value": "rgba({color.base.black}, {static.opacity.0})",
+        "$value": "rgba({color.base.black}, 0)",
         "$type": "color"
       }
     }
