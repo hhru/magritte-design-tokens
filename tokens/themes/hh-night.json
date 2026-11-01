@@ -10337,7 +10337,7 @@
         "fade": {
           "content": {
             "$value": "linear-gradient(0deg, rgba({color.base.black}, {static.opacity.0}) 0%, rgba({color.base.black}, {static.opacity.100}) 100%)",
-            "$type": "color",
+            "$type": "gradient",
             "$description": "night"
           }
         }
@@ -10346,7 +10346,7 @@
         "background": {
           "fade": {
             "$value": "linear-gradient(180deg, rgba({color.base.black}, {static.opacity.0}) 0%, rgba({color.base.black}, {static.opacity.48}) 100%)",
-            "$type": "color"
+            "$type": "gradient"
           }
         }
       },
@@ -10354,7 +10354,7 @@
         "background": {
           "fade": {
             "$value": "linear-gradient(180deg, rgba({color.base.black}, 0) 20.5%, rgba({color.base.black}, 0) 42.5%, rgba({color.base.black}, 0.06) 63.5%, rgba({color.base.black}, 0.1) 75.5%, rgba({color.base.black}, 0.15) 87.5%, rgba({color.base.black}, 0.25) 100%)",
-            "$type": "color"
+            "$type": "gradient"
           }
         }
       },
@@ -10362,7 +10362,7 @@
         "background": {
           "fade": {
             "$value": "linear-gradient(180deg, rgba({color.base.black}, {static.opacity.0}) 0%, rgba({color.base.black}, {static.opacity.32}) 100%)",
-            "$type": "color"
+            "$type": "gradient"
           }
         }
       },
@@ -10370,7 +10370,7 @@
         "background": {
           "fade": {
             "$value": "linear-gradient(180deg, rgba({color.background.primary}, {static.opacity.0}) 0%, rgba({color.background.primary}, {static.opacity.100}) 100%)",
-            "$type": "color"
+            "$type": "gradient"
           }
         }
       }
@@ -10378,27 +10378,27 @@
     "visualisation": {
       "fill-1": {
         "$value": "linear-gradient(0deg, rgba({color.base.red.60}, {static.opacity.0}) 0%, rgba({color.base.red.60}, {static.opacity.100}) 100%)",
-        "$type": "color"
+        "$type": "gradient"
       },
       "fill-2": {
         "$value": "linear-gradient(0deg, rgba({color.base.green.65}, {static.opacity.0}) 0%, rgba({color.base.green.65}, {static.opacity.100}) 100%)",
-        "$type": "color"
+        "$type": "gradient"
       },
       "fill-3": {
         "$value": "linear-gradient(0deg, rgba({color.base.blue.55}, {static.opacity.0}) 0%, rgba({color.base.blue.55}, {static.opacity.100}) 100%)",
-        "$type": "color"
+        "$type": "gradient"
       },
       "fill-4": {
         "$value": "linear-gradient(0deg, rgba({color.base.violet.70}, {static.opacity.0}) 0%, rgba({color.base.violet.70}, {static.opacity.100}) 100%)",
-        "$type": "color"
+        "$type": "gradient"
       },
       "fill-5": {
         "$value": "linear-gradient(0deg, rgba({color.base.orange.60}, {static.opacity.0}) 0%, rgba({color.base.orange.60}, {static.opacity.100}) 100%)",
-        "$type": "color"
+        "$type": "gradient"
       },
       "fill-6": {
         "$value": "linear-gradient(0deg, rgba({color.base.gray.50}, {static.opacity.0}) 0%, rgba({color.base.gray.50}, {static.opacity.100}) 100%)",
-        "$type": "color"
+        "$type": "gradient"
       }
     },
     "stop": {
