@@ -348,7 +348,7 @@
         "$type": "blur"
       },
       "overlay": {
-        "$value": "{static.blur.uniform.24}",
+        "$value": "{static.blur.uniform.8}",
         "$type": "blur"
       }
     }
@@ -766,6 +766,14 @@
     },
     "blur": {
       "uniform": {
+        "8": {
+          "$value": "8",
+          "$type": "blur"
+        },
+        "12": {
+          "$value": "12",
+          "$type": "blur"
+        },
         "24": {
           "$value": "24",
           "$type": "blur"
