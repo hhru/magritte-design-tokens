@@ -67,7 +67,7 @@
         "$description": "night"
       },
       "overlay": {
-        "$value": "rgba( {color.base.graphite.15}, {semantic.opacity.overlay})",
+        "$value": "rgba( #35363A, {semantic.opacity.overlay})",
         "$type": "color"
       },
       "dreamy-secondary": {
@@ -437,15 +437,15 @@
         "$type": "color"
       },
       "overlay-hovered": {
-        "$value": "rgba( {color.base.graphite.15}, {semantic.opacity.overlay})",
+        "$value": "rgba( #35363A, {semantic.opacity.overlay})",
         "$type": "color"
       },
       "overlay-pressed": {
-        "$value": "rgba( {color.base.graphite.15}, {semantic.opacity.overlay})",
+        "$value": "rgba( #35363A, {semantic.opacity.overlay})",
         "$type": "color"
       },
       "overlay-disabled": {
-        "$value": "rgba( {color.base.graphite.15}, {semantic.opacity.overlay})",
+        "$value": "rgba( #35363A, {semantic.opacity.overlay})",
         "$type": "color"
       },
       "body-hovered": {
@@ -3781,7 +3781,7 @@
             "$description": "night"
           },
           "field-disabled": {
-            "$value": "{color.base.gray.10}",
+            "$value": "{color.base.gray.15}",
             "$type": "color",
             "$description": "night"
           },
@@ -3823,7 +3823,7 @@
             "$description": "night"
           },
           "field-disabled": {
-            "$value": "{color.base.gray.5}",
+            "$value": "{color.base.gray.15}",
             "$type": "color",
             "$description": "night"
           },
@@ -3875,7 +3875,7 @@
         },
         "text-state": {
           "content-disabled": {
-            "$value": "{color.base.gray.30}",
+            "$value": "{color.base.gray.45}",
             "$type": "color",
             "$description": "night"
           },
@@ -4057,7 +4057,7 @@
             "$type": "color"
           },
           "content-disabled": {
-            "$value": "{color.base.gray.30}",
+            "$value": "{color.base.gray.45}",
             "$type": "color"
           },
           "content-applied": {
@@ -4065,7 +4065,7 @@
             "$type": "color"
           },
           "applied-disabled": {
-            "$value": "{color.base.gray.30}",
+            "$value": "{color.base.gray.45}",
             "$type": "color"
           },
           "chevron-disabled": {
@@ -8909,7 +8909,7 @@
       "checkable": {
         "background": {
           "unchecked": {
-            "$value": "{color.base.gray.10}",
+            "$value": "{color.base.gray.5}",
             "$type": "color",
             "$description": "night"
           },
@@ -8931,7 +8931,7 @@
             "$description": "night"
           },
           "unchecked-disabled": {
-            "$value": "{color.base.gray.10}",
+            "$value": "{color.base.gray.15}",
             "$type": "color",
             "$description": "night"
           },
@@ -8985,7 +8985,7 @@
             "$description": "night"
           },
           "unchecked-disabled": {
-            "$value": "{color.base.gray.10}",
+            "$value": "{color.base.gray.15}",
             "$type": "color",
             "$description": "night"
           },
