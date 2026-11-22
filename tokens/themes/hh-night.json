@@ -10328,6 +10328,12 @@
             "$type": "color"
           }
         }
+      },
+      "text": {
+        "highlight": {
+          "$value": "rgba( {color.background.accent}, 50% )",
+          "$type": "color"
+        }
       }
     }
   },
