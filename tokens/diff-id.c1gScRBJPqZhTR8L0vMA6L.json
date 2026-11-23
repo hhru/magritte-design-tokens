@@ -2716,7 +2716,10 @@
 }
 },
 "text":{
-"highlight":{"collectionPath":"themes","figmaId":"VariableID:4170:14276","figmaKey":"64b18f125c6e1cc392a054a2806836d8eac8ce9f","hash":"84481a1e","metaHash":"m1:9a367bdf","modeHashes":{"themes::hh-day":"84481a1e","themes::hh-night":"84481a1e","themes::zp-day":"84481a1e"},"sourceFile":"themes/hh-day.json","sourceKind":"file","tokenType":"color"}
+"highlight":{
+"$leaf":{"collectionPath":"themes","figmaId":"VariableID:4170:14276","figmaKey":"64b18f125c6e1cc392a054a2806836d8eac8ce9f","hash":"84481a1e","metaHash":"m1:9a367bdf","modeHashes":{"themes::hh-day":"84481a1e","themes::hh-night":"84481a1e","themes::zp-day":"84481a1e"},"sourceFile":"themes/hh-day.json","sourceKind":"file","tokenType":"color"},
+"background":{"collectionPath":"themes","figmaId":"VariableID:4187:9563","figmaKey":"ead8d58ca65fc95e836467684b4026c980f5dd99","hash":"81875fd3","metaHash":"m1:9a367bdf","modeHashes":{"themes::hh-day":"81875fd3","themes::hh-night":"1fed5671","themes::zp-day":"81875fd3"},"sourceFile":"themes/hh-day.json","sourceKind":"file","tokenType":"color"}
+}
 },
 "time-picker":{
 "background":{

@@ -10331,8 +10331,10 @@
       },
       "text": {
         "highlight": {
-          "$value": "rgba( {color.background.accent}, 50% )",
-          "$type": "color"
+          "background": {
+            "$value": "rgba( {color.background.accent}, 40% )",
+            "$type": "color"
+          }
         }
       }
     }
